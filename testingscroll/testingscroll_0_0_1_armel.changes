@@ -1,0 +1,22 @@
+Format: 1.8
+Date: Sun, 12 Feb 2012 19:00:37 +0200
+Source: testingscroll
+Binary: testingscroll
+Architecture: armel
+Version: 0.0.1
+Distribution: unstable
+Urgency: low
+Maintainer: unknown <>
+Changed-By: unknown <>
+Description: 
+ testingscroll - <insert up to 60 chars description>
+Changes: 
+ testingscroll (0.0.1) unstable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1: 
+ 920945c9a5d810551b76d9de0abfd6c226675cd8 98064 testingscroll_0.0.1_armel.deb
+Checksums-Sha256: 
+ 04f76bbbf9b116cbda6c9d07a9e090c5af5c6beb1d0429675629ce5cc997ce1e 98064 testingscroll_0.0.1_armel.deb
+Files: 
+ ef17fb5e0b4352421ccfe523ecd30d43 98064 user/hidden optional testingscroll_0.0.1_armel.deb

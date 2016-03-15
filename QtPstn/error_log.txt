@@ -1,0 +1,9 @@
+Ðבס 9. Ìבס 21:55:17 2012 : [GidtModule] : Could not find ini file!
+Ðבס 9. Ìבס 21:55:17 2012 : [GidtModule] : m_inboxPolling in ini file is invalid.
+Ðבס 9. Ìבס 21:55:17 2012 : [GidtModule] : m_hb_period in ini file is invalid.
+Ðבס 9. Ìבס 21:55:46 2012 : [GidtModule] : Could not find ini file!
+Ðבס 9. Ìבס 21:55:46 2012 : [GidtModule] : m_inboxPolling in ini file is invalid.
+Ðבס 9. Ìבס 21:55:46 2012 : [GidtModule] : m_hb_period in ini file is invalid.
+Ðבס 9. Ìבס 22:58:16 2012 : [GidtModule] : Could not find ini file!
+Ðבס 9. Ìבס 22:58:16 2012 : [GidtModule] : m_inboxPolling in ini file is invalid.
+Ðבס 9. Ìבס 22:58:16 2012 : [GidtModule] : m_hb_period in ini file is invalid.

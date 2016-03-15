@@ -1,0 +1,70 @@
+17:14:57: Programm started.
+17:20:24: Programm started.
+17:21:28: Program started.
+17:21:28: Could not start Module Manager.
+17:36:00: Program started.
+17:36:12: [ModManager]: Restarting module: EMAIL
+17:38:20: Program started.
+17:38:32: [ModManager]: Restarting module: EMAIL
+17:42:16: Program started.
+17:42:50: [ModManager]: Restarting module: EMAIL
+17:46:46: Program started.
+17:56:44: Program started.
+17:56:59: [ModManager]: Restarting module: EMAIL
+17:57:13: [ModManager]: Restarting module: EMAIL
+17:57:46: Program started.
+17:57:57: Program started.
+17:57:57: [ModManager]: Failed
+17:57:57: Could not start Module Manager.
+17:58:16: Program started.
+17:58:17: [ModManager]: Failed
+17:58:17: Could not start Module Manager.
+18:00:46: Program started.
+18:02:47: Program started.
+18:07:07: Program started.
+18:17:52: Program started.
+18:17:52: Could not start Module Manager.
+18:21:45: Program started.
+18:21:46: [ModManager]: Number of modules fiund: 0
+18:21:46: Could not start Module Manager.
+18:24:43: Program started.
+18:24:44: [ModManager]: Number of modules fiund: 0
+18:24:44: Could not start Module Manager.
+18:25:23: Program started.
+18:25:23: [ModManager]: Number of modules found: 0
+18:25:23: Could not start Module Manager.
+18:26:33: Program started.
+18:26:33: [ModManager]: Number of modules found: 0
+18:27:01: Program started.
+18:27:01: [ModManager]: Number of modules found: 0
+18:27:55: Program started.
+18:27:55: [ModManager]: Number of modules found: 0
+18:43:32: Program started.
+18:43:32: [ModManager]: Number of modules found: 0
+18:44:51: Program started.
+18:44:51: [ModManager]: Number of modules found: 3
+18:44:51: [ModManager]: tmpMod.name: EMAIL
+18:44:51: [ModManager]: tmpMod.name: GSM
+18:44:51: [ModManager]: tmpMod.name: TV
+20:35:49: Program started.
+20:35:49: [ModManager]: Number of modules found: 3
+20:35:49: [ModManager]: tmpMod.name: EMAIL
+20:35:49: [ModManager]: tmpMod.name: GSM
+20:35:49: [ModManager]: tmpMod.name: TV
+23:33:17: Program started.
+23:33:17: [ModManager]: Number of modules found: 3
+23:33:17: [ModManager]: tmpMod.name: EMAIL
+23:33:17: [ModManager]: tmpMod.name: GSM
+23:33:17: [ModManager]: tmpMod.name: TV
+23:33:17: [KnxDB]: [DB] Failed to connect to database. Aborting...
+23:33:56: Program started.
+23:33:56: [ModManager]: Number of modules found: 0
+23:33:56: [KnxDB]: [DB] Failed to connect to database. Aborting...
+23:37:14: Program started.
+23:37:14: [ModManager]: Number of modules found: 0
+23:37:14: [KnxDB]: [DB] Failed to connect to database. Aborting...
+23:38:27: Program started.
+23:38:27: [ModManager]: Number of modules found: 0
+23:38:27: [KnxDB]: [DB] Failed to connect to database. Aborting...
+23:40:19: Program started.
+23:40:20: [ModManager]: Number of modules found: 0

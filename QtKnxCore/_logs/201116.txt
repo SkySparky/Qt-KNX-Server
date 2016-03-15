@@ -1,0 +1,332 @@
+00:05:57: [Console]: Quit from user
+00:05:58: [KnxGW]: Exiting
+00:06:17: Program started.
+00:06:17: [ModManager]: Number of modules found: 3
+00:06:17: [ModManager]: tmpMod.name: EMAIL
+00:06:17: [ModManager]: tmpMod.name: GSM
+00:06:17: [ModManager]: tmpMod.name: TV
+00:06:17: [ModManager]: Number of params found: 4
+00:06:17: [ModManager]: mod_param: email.to:string
+00:06:17: [ModManager]: mod_param: email.subj:string
+00:06:17: [ModManager]: mod_param: email.body:string
+00:06:17: [ModManager]: mod_param: email.att:string
+00:06:17: [ModManager]: Number of params found: 2
+00:06:17: [ModManager]: mod_param: gsm.tel:string
+00:06:17: [ModManager]: mod_param: gsm.text:string
+00:06:17: [ModManager]: Number of params found: 5
+00:06:17: [ModManager]: mod_param: tv.id:string
+00:06:17: [ModManager]: mod_param: tv.cmd:string
+00:06:17: [ModManager]: mod_param: tv.data:string
+00:06:17: [ModManager]: mod_param: tv.predelay:int
+00:06:17: [ModManager]: mod_param: tv.postdelay:int
+00:06:17: [KnxDB]: [DB] Connected to database.
+00:06:17: [Console]: Staring console capture.
+00:06:17: [KnxGW]: Send time on bus enabled.
+00:06:19: [Console]: Quit from user
+00:06:20: [KnxGW]: Exiting
+00:07:11: Program started.
+00:07:11: [ModManager]: Number of modules found: 3
+00:07:11: [ModManager]: tmpMod.name: EMAIL
+00:07:11: [ModManager]: tmpMod.name: GSM
+00:07:11: [ModManager]: tmpMod.name: TV
+00:07:11: [ModManager]: Number of params found: 4
+00:07:11: [ModManager]: mod_param: email.to:string
+00:07:11: [ModManager]: mod_param: email.subj:string
+00:07:11: [ModManager]: mod_param: email.body:string
+00:07:11: [ModManager]: mod_param: email.att:string
+00:07:11: [ModManager]: Number of params found: 2
+00:07:11: [ModManager]: mod_param: gsm.tel:string
+00:07:11: [ModManager]: mod_param: gsm.text:string
+00:07:11: [ModManager]: Number of params found: 5
+00:07:11: [ModManager]: mod_param: tv.id:string
+00:07:11: [ModManager]: mod_param: tv.cmd:string
+00:07:11: [ModManager]: mod_param: tv.data:string
+00:07:11: [ModManager]: mod_param: tv.predelay:int
+00:07:11: [ModManager]: mod_param: tv.postdelay:int
+00:07:12: [KnxDB]: [DB] Connected to database.
+00:07:12: [Console]: Staring console capture.
+00:07:12: [KnxGW]: Send time on bus enabled.
+00:35:23: [KnxDB]: gsm.tel,6906991177,GSM,
+00:35:23: [KnxDB]: gsm.text,Αυτό είναι ένα κείμενο στα ελληνικά,GSM,
+00:35:23: [KnxDB]: email.to,from@gm,EMAIL,
+00:35:23: [KnxDB]: email.subj,This is a test,EMAIL,
+00:35:23: [KnxDB]: email.body,This is the body of the mail,EMAIL,
+00:35:23: [KnxDB]: email.att,tl19700102004309_MD.jpg,EMAIL,
+00:35:23: [Console]: Quit from user
+00:35:24: [KnxGW]: Exiting
+00:36:10: Program started.
+00:36:10: [ModManager]: Number of modules found: 3
+00:36:10: [ModManager]: tmpMod.name: EMAIL
+00:36:10: [ModManager]: tmpMod.name: GSM
+00:36:10: [ModManager]: tmpMod.name: TV
+00:36:10: [ModManager]: Number of params found: 4
+00:36:10: [ModManager]: mod_param: email.to:string
+00:36:10: [ModManager]: mod_param: email.subj:string
+00:36:10: [ModManager]: mod_param: email.body:string
+00:36:10: [ModManager]: mod_param: email.att:string
+00:36:10: [ModManager]: Number of params found: 2
+00:36:10: [ModManager]: mod_param: gsm.tel:string
+00:36:10: [ModManager]: mod_param: gsm.text:string
+00:36:10: [ModManager]: Number of params found: 5
+00:36:10: [ModManager]: mod_param: tv.id:string
+00:36:10: [ModManager]: mod_param: tv.cmd:string
+00:36:10: [ModManager]: mod_param: tv.data:string
+00:36:10: [ModManager]: mod_param: tv.predelay:int
+00:36:10: [ModManager]: mod_param: tv.postdelay:int
+00:36:10: [KnxDB]: [DB] Connected to database.
+00:36:10: [Console]: Staring console capture.
+00:36:10: [KnxGW]: Send time on bus enabled.
+00:37:25: [KnxDB]: email.to,from@gm,EMAIL,
+00:37:25: [KnxDB]: email.subj,This is a test,EMAIL,
+00:37:25: [KnxDB]: email.body,This is the body of the mail,EMAIL,
+00:37:25: [KnxDB]: email.att,tl19700102004309_MD.jpg,EMAIL,
+00:37:25: [Console]: Quit from user
+00:37:26: [KnxGW]: Exiting
+00:37:39: Program started.
+00:37:39: [ModManager]: Number of modules found: 3
+00:37:39: [ModManager]: tmpMod.name: EMAIL
+00:37:39: [ModManager]: tmpMod.name: GSM
+00:37:39: [ModManager]: tmpMod.name: TV
+00:37:39: [ModManager]: Number of params found: 4
+00:37:39: [ModManager]: mod_param: email.to:string
+00:37:39: [ModManager]: mod_param: email.subj:string
+00:37:39: [ModManager]: mod_param: email.body:string
+00:37:39: [ModManager]: mod_param: email.att:string
+00:37:39: [ModManager]: Number of params found: 2
+00:37:39: [ModManager]: mod_param: gsm.tel:string
+00:37:39: [ModManager]: mod_param: gsm.text:string
+00:37:39: [ModManager]: Number of params found: 5
+00:37:39: [ModManager]: mod_param: tv.id:string
+00:37:39: [ModManager]: mod_param: tv.cmd:string
+00:37:39: [ModManager]: mod_param: tv.data:string
+00:37:39: [ModManager]: mod_param: tv.predelay:int
+00:37:39: [ModManager]: mod_param: tv.postdelay:int
+00:37:39: [KnxDB]: [DB] Connected to database.
+00:37:39: [Console]: Staring console capture.
+00:37:50: [KnxDB]: email.to,from@gm,EMAIL,
+00:37:50: [KnxDB]: email.subj,This is a test,EMAIL,
+00:37:50: [KnxDB]: email.body,This is the body of the mail,EMAIL,
+00:37:50: [KnxDB]: email.att,tl19700102004309_MD.jpg,EMAIL,
+01:18:11: [KnxDB]: email.to,from@gm,EMAIL,
+01:18:11: [KnxDB]: email.subj,This is a test,EMAIL,
+01:18:11: [KnxDB]: email.body,This is the body of the mail,EMAIL,
+01:18:11: [KnxDB]: email.att,tl19700102004309_MD.jpg,EMAIL,
+20:39:33: Program started.
+20:39:33: [ModManager]: Number of modules found: 3
+20:39:33: [ModManager]: tmpMod.name: EMAIL
+20:39:33: [ModManager]: tmpMod.name: GSM
+20:39:33: [ModManager]: tmpMod.name: TV
+20:39:33: [ModManager]: Number of params found: 4
+20:39:33: [ModManager]: mod_param: email.to:string
+20:39:33: [ModManager]: mod_param: email.subj:string
+20:39:33: [ModManager]: mod_param: email.body:string
+20:39:33: [ModManager]: mod_param: email.att:string
+20:39:33: [ModManager]: Number of params found: 2
+20:39:33: [ModManager]: mod_param: gsm.tel:string
+20:39:33: [ModManager]: mod_param: gsm.text:string
+20:39:33: [ModManager]: Number of params found: 5
+20:39:33: [ModManager]: mod_param: tv.id:string
+20:39:33: [ModManager]: mod_param: tv.cmd:string
+20:39:33: [ModManager]: mod_param: tv.data:string
+20:39:33: [ModManager]: mod_param: tv.predelay:int
+20:39:33: [ModManager]: mod_param: tv.postdelay:int
+20:39:33: [KnxDB]: [DB] Connected to database.
+20:39:33: [Console]: Staring console capture.
+20:43:42: Program started.
+20:43:43: [ModManager]: Number of modules found: 3
+20:43:43: [ModManager]: tmpMod.name: EMAIL
+20:43:43: [ModManager]: tmpMod.name: GSM
+20:43:43: [ModManager]: tmpMod.name: TV
+20:43:43: [ModManager]: Number of params found: 4
+20:43:43: [ModManager]: mod_param: email.to:string
+20:43:43: [ModManager]: mod_param: email.subj:string
+20:43:43: [ModManager]: mod_param: email.body:string
+20:43:43: [ModManager]: mod_param: email.att:string
+20:43:43: [ModManager]: Number of params found: 2
+20:43:43: [ModManager]: mod_param: gsm.tel:string
+20:43:43: [ModManager]: mod_param: gsm.text:string
+20:43:43: [ModManager]: Number of params found: 5
+20:43:43: [ModManager]: mod_param: tv.id:string
+20:43:43: [ModManager]: mod_param: tv.cmd:string
+20:43:43: [ModManager]: mod_param: tv.data:string
+20:43:43: [ModManager]: mod_param: tv.predelay:int
+20:43:43: [ModManager]: mod_param: tv.postdelay:int
+20:43:43: [KnxDB]: [DB] Connected to database.
+20:43:43: [Console]: Staring console capture.
+20:45:37: Program started.
+20:45:37: [ModManager]: Number of modules found: 3
+20:45:37: [ModManager]: tmpMod.name: EMAIL
+20:45:37: [ModManager]: tmpMod.name: GSM
+20:45:37: [ModManager]: tmpMod.name: TV
+20:45:37: [ModManager]: Number of params found: 4
+20:45:37: [ModManager]: mod_param: email.to:string
+20:45:37: [ModManager]: mod_param: email.subj:string
+20:45:37: [ModManager]: mod_param: email.body:string
+20:45:37: [ModManager]: mod_param: email.att:string
+20:45:37: [ModManager]: Number of params found: 2
+20:45:37: [ModManager]: mod_param: gsm.tel:string
+20:45:37: [ModManager]: mod_param: gsm.text:string
+20:45:37: [ModManager]: Number of params found: 5
+20:45:37: [ModManager]: mod_param: tv.id:string
+20:45:37: [ModManager]: mod_param: tv.cmd:string
+20:45:37: [ModManager]: mod_param: tv.data:string
+20:45:37: [ModManager]: mod_param: tv.predelay:int
+20:45:37: [ModManager]: mod_param: tv.postdelay:int
+20:45:37: [KnxDB]: [DB] Connected to database.
+20:45:37: [Console]: Staring console capture.
+20:48:21: Program started.
+20:48:21: [ModManager]: Number of modules found: 3
+20:48:21: [ModManager]: tmpMod.name: EMAIL
+20:48:21: [ModManager]: tmpMod.name: GSM
+20:48:21: [ModManager]: tmpMod.name: TV
+20:48:21: [ModManager]: Number of params found: 4
+20:48:21: [ModManager]: mod_param: email.to:string
+20:48:21: [ModManager]: mod_param: email.subj:string
+20:48:21: [ModManager]: mod_param: email.body:string
+20:48:21: [ModManager]: mod_param: email.att:string
+20:48:21: [ModManager]: Number of params found: 2
+20:48:21: [ModManager]: mod_param: gsm.tel:string
+20:48:21: [ModManager]: mod_param: gsm.text:string
+20:48:21: [ModManager]: Number of params found: 5
+20:48:21: [ModManager]: mod_param: tv.id:string
+20:48:21: [ModManager]: mod_param: tv.cmd:string
+20:48:21: [ModManager]: mod_param: tv.data:string
+20:48:21: [ModManager]: mod_param: tv.predelay:int
+20:48:21: [ModManager]: mod_param: tv.postdelay:int
+20:48:21: [KnxDB]: [DB] Connected to database.
+20:49:07: Program started.
+20:49:08: [ModManager]: Number of modules found: 3
+20:49:08: [ModManager]: tmpMod.name: EMAIL
+20:49:08: [ModManager]: tmpMod.name: GSM
+20:49:08: [ModManager]: tmpMod.name: TV
+20:49:08: [ModManager]: Number of params found: 4
+20:49:08: [ModManager]: mod_param: email.to:string
+20:49:08: [ModManager]: mod_param: email.subj:string
+20:49:08: [ModManager]: mod_param: email.body:string
+20:49:08: [ModManager]: mod_param: email.att:string
+20:49:08: [ModManager]: Number of params found: 2
+20:49:08: [ModManager]: mod_param: gsm.tel:string
+20:49:08: [ModManager]: mod_param: gsm.text:string
+20:49:08: [ModManager]: Number of params found: 5
+20:49:08: [ModManager]: mod_param: tv.id:string
+20:49:08: [ModManager]: mod_param: tv.cmd:string
+20:49:08: [ModManager]: mod_param: tv.data:string
+20:49:08: [ModManager]: mod_param: tv.predelay:int
+20:49:08: [ModManager]: mod_param: tv.postdelay:int
+20:49:08: [KnxDB]: [DB] Connected to database.
+20:50:22: [Console]: Staring console capture.
+20:51:04: Program started.
+20:51:04: [ModManager]: Number of modules found: 3
+20:51:04: [ModManager]: tmpMod.name: EMAIL
+20:51:04: [ModManager]: tmpMod.name: GSM
+20:51:04: [ModManager]: tmpMod.name: TV
+20:51:04: [ModManager]: Number of params found: 4
+20:51:04: [ModManager]: mod_param: email.to:string
+20:51:04: [ModManager]: mod_param: email.subj:string
+20:51:04: [ModManager]: mod_param: email.body:string
+20:51:04: [ModManager]: mod_param: email.att:string
+20:51:04: [ModManager]: Number of params found: 2
+20:51:04: [ModManager]: mod_param: gsm.tel:string
+20:51:04: [ModManager]: mod_param: gsm.text:string
+20:51:04: [ModManager]: Number of params found: 5
+20:51:04: [ModManager]: mod_param: tv.id:string
+20:51:04: [ModManager]: mod_param: tv.cmd:string
+20:51:04: [ModManager]: mod_param: tv.data:string
+20:51:04: [ModManager]: mod_param: tv.predelay:int
+20:51:04: [ModManager]: mod_param: tv.postdelay:int
+20:51:04: [KnxDB]: [DB] Connected to database.
+20:51:04: [Console]: Staring console capture.
+20:53:02: Program started.
+20:53:02: [ModManager]: Number of modules found: 3
+20:53:02: [ModManager]: tmpMod.name: EMAIL
+20:53:02: [ModManager]: tmpMod.name: GSM
+20:53:02: [ModManager]: tmpMod.name: TV
+20:53:02: [ModManager]: Number of params found: 4
+20:53:02: [ModManager]: mod_param: email.to:string
+20:53:02: [ModManager]: mod_param: email.subj:string
+20:53:02: [ModManager]: mod_param: email.body:string
+20:53:02: [ModManager]: mod_param: email.att:string
+20:53:02: [ModManager]: Number of params found: 2
+20:53:02: [ModManager]: mod_param: gsm.tel:string
+20:53:02: [ModManager]: mod_param: gsm.text:string
+20:53:02: [ModManager]: Number of params found: 5
+20:53:02: [ModManager]: mod_param: tv.id:string
+20:53:02: [ModManager]: mod_param: tv.cmd:string
+20:53:02: [ModManager]: mod_param: tv.data:string
+20:53:02: [ModManager]: mod_param: tv.predelay:int
+20:53:02: [ModManager]: mod_param: tv.postdelay:int
+20:53:02: [KnxDB]: [DB] Connected to database.
+20:57:42: Program started.
+20:57:42: [ModManager]: Number of modules found: 3
+20:57:42: [ModManager]: tmpMod.name: EMAIL
+20:57:42: [ModManager]: tmpMod.name: GSM
+20:57:42: [ModManager]: tmpMod.name: TV
+20:57:42: [ModManager]: Number of params found: 4
+20:57:42: [ModManager]: mod_param: email.to:string
+20:57:42: [ModManager]: mod_param: email.subj:string
+20:57:42: [ModManager]: mod_param: email.body:string
+20:57:42: [ModManager]: mod_param: email.att:string
+20:57:42: [ModManager]: Number of params found: 2
+20:57:42: [ModManager]: mod_param: gsm.tel:string
+20:57:42: [ModManager]: mod_param: gsm.text:string
+20:57:42: [ModManager]: Number of params found: 5
+20:57:42: [ModManager]: mod_param: tv.id:string
+20:57:42: [ModManager]: mod_param: tv.cmd:string
+20:57:42: [ModManager]: mod_param: tv.data:string
+20:57:42: [ModManager]: mod_param: tv.predelay:int
+20:57:42: [ModManager]: mod_param: tv.postdelay:int
+20:57:42: [KnxDB]: [DB] Connected to database.
+20:57:42: [Console]: Staring console capture.
+21:19:13: Program started.
+21:19:13: [ModManager]: Number of modules found: 3
+21:19:13: [ModManager]: tmpMod.name: EMAIL
+21:19:13: [ModManager]: tmpMod.name: GSM
+21:19:13: [ModManager]: tmpMod.name: TV
+21:19:13: [ModManager]: Number of params found: 4
+21:19:13: [ModManager]: mod_param: email.to:string
+21:19:13: [ModManager]: mod_param: email.subj:string
+21:19:13: [ModManager]: mod_param: email.body:string
+21:19:13: [ModManager]: mod_param: email.att:string
+21:19:13: [ModManager]: Number of params found: 2
+21:19:13: [ModManager]: mod_param: gsm.tel:string
+21:19:13: [ModManager]: mod_param: gsm.text:string
+21:19:13: [ModManager]: Number of params found: 5
+21:19:13: [ModManager]: mod_param: tv.id:string
+21:19:13: [ModManager]: mod_param: tv.cmd:string
+21:19:13: [ModManager]: mod_param: tv.data:string
+21:19:13: [ModManager]: mod_param: tv.predelay:int
+21:19:13: [ModManager]: mod_param: tv.postdelay:int
+21:19:13: [KnxDB]: [DB] Connected to database.
+21:19:13: [Console]: Staring console capture.
+21:19:31: Program started.
+21:19:31: [ModManager]: Number of modules found: 3
+21:19:31: [ModManager]: tmpMod.name: EMAIL
+21:19:31: [ModManager]: tmpMod.name: GSM
+21:19:31: [ModManager]: tmpMod.name: TV
+21:19:31: [ModManager]: Number of params found: 4
+21:19:31: [ModManager]: mod_param: email.to:string
+21:19:31: [ModManager]: mod_param: email.subj:string
+21:19:31: [ModManager]: mod_param: email.body:string
+21:19:31: [ModManager]: mod_param: email.att:string
+21:19:31: [ModManager]: Number of params found: 2
+21:19:31: [ModManager]: mod_param: gsm.tel:string
+21:19:31: [ModManager]: mod_param: gsm.text:string
+21:19:31: [ModManager]: Number of params found: 5
+21:19:31: [ModManager]: mod_param: tv.id:string
+21:19:31: [ModManager]: mod_param: tv.cmd:string
+21:19:31: [ModManager]: mod_param: tv.data:string
+21:19:31: [ModManager]: mod_param: tv.predelay:int
+21:19:31: [ModManager]: mod_param: tv.postdelay:int
+21:19:32: [KnxDB]: [DB] Connected to database.
+21:19:32: [Console]: Staring console capture.
+21:20:31: Program started.
+21:20:31: [ModManager]: Number of modules found: 0
+21:20:31: [KnxDB]: [DB] Connected to database.
+21:20:31: [Console]: Staring console capture.
+21:20:38: [Console]: Quit from user
+21:22:58: Program started.
+21:22:58: [ModManager]: Number of modules found: 0
+21:22:58: [KnxDB]: [DB] Connected to database.
+21:22:58: [Console]: Staring console capture.
+21:22:58: [KnxGW]: Send time on bus enabled.
+21:23:20: [Console]: Quit from user

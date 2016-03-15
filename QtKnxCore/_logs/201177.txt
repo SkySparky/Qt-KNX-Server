@@ -1,0 +1,479 @@
+19:48:20: Program started.
+19:48:20: [Console]: Staring console capture.
+19:48:20: [KnxGW::UdpThread] Send time on bus enabled.
+19:48:21: [KnxDB::EVENT,KNX,DB:UDP,1/0/2,00,0
+19:48:21: [ModManager]: Number of modules found: 4
+19:48:21: [ModManager]: tmpMod.name: EMAIL
+19:48:21: [ModManager]: tmpMod.name: GSM
+19:48:21: [ModManager]: tmpMod.name: TV
+19:48:21: [ModManager]: tmpMod.name: PSTN
+19:48:21: [KnxDB::EVENT,KNX,DB:UDP,1/0/5,00,0
+19:48:21: [KnxDB::EVENT,KNX,DB:UDP,1/0/6,00,0
+19:48:21: [KnxDB::EVENT,KNX,DB:UDP,1/0/7,00,0
+19:48:21: [KnxDB::EVENT,KNX,DB:UDP,1/0/8,00,0
+19:48:21: [KnxDB::EVENT,KNX,DB:UDP,1/0/9,00,0
+19:48:21: WRITE,PSTN,KNX,0/0/18,00
+19:48:21: WRITE,PSTN,KNX,0/0/18,01
+19:48:21: WRITE,PSTN,KNX,0/0/18,00
+19:48:21: WRITE,PSTN,KNX,0/0/18,00
+19:48:21: WRITE,PSTN,KNX,0/0/18,01
+19:48:21: WRITE,PSTN,KNX,0/0/18,
+19:48:21: WRITE,PSTN,KNX,0/0/18,
+19:48:21: WRITE,PSTN,KNX,0/0/18,
+19:49:15: Program started.
+19:49:15: [Console]: Staring console capture.
+19:49:15: [KnxGW::UdpThread] Send time on bus enabled.
+19:49:15: [ModManager]: Number of modules found: 5
+19:49:15: [ModManager]: tmpMod.name: EMAIL
+19:49:15: [ModManager]: tmpMod.name: GSM
+19:49:15: [ModManager]: tmpMod.name: TV
+19:49:15: [ModManager]: tmpMod.name: PSTN
+19:49:15: [ModManager]: tmpMod.name: ALARM
+19:50:05: Program started.
+19:50:05: [Console]: Staring console capture.
+19:50:05: [KnxGW::UdpThread] Send time on bus enabled.
+19:50:05: [ModManager]: Number of modules found: 5
+19:50:05: [ModManager]: tmpMod.name: EMAIL
+19:50:05: [ModManager]: tmpMod.name: GSM
+19:50:05: [ModManager]: tmpMod.name: TV
+19:50:05: [ModManager]: tmpMod.name: PSTN
+19:50:05: [ModManager]: tmpMod.name: ALARM
+19:50:05: [KnxDB::EVENT,KNX,DB:UDP,1/0/2,00,0
+19:50:05: [KnxDB::EVENT,KNX,DB:UDP,1/0/5,00,0
+19:50:05: [KnxDB::EVENT,KNX,DB:UDP,1/0/6,00,0
+19:50:55: Program started.
+19:50:55: [Console]: Staring console capture.
+19:50:55: [KnxGW::UdpThread] Send time on bus enabled.
+19:50:55: [ModManager]: Number of modules found: 5
+19:50:55: [ModManager]: tmpMod.name: EMAIL
+19:50:55: [ModManager]: tmpMod.name: GSM
+19:50:55: [ModManager]: tmpMod.name: TV
+19:50:55: [ModManager]: tmpMod.name: PSTN
+19:50:55: [ModManager]: tmpMod.name: ALARM
+19:52:37: Program started.
+19:52:37: [Console]: Staring console capture.
+19:52:37: [KnxGW::UdpThread] Send time on bus enabled.
+19:52:37: [KnxDB::EVENT,KNX,DB:UDP,1/0/2,00,0
+19:52:37: [ModManager]: Number of modules found: 5
+19:52:37: [ModManager]: tmpMod.name: EMAIL
+19:52:37: [ModManager]: tmpMod.name: GSM
+19:52:37: [ModManager]: tmpMod.name: TV
+19:52:37: [ModManager]: tmpMod.name: PSTN
+19:52:37: [ModManager]: tmpMod.name: ALARM
+19:52:38: [KnxDB::EVENT,KNX,DB:UDP,1/0/5,00,0
+19:52:38: [KnxDB::EVENT,KNX,DB:UDP,1/0/6,00,0
+19:52:38: [KnxDB::EVENT,KNX,DB:UDP,1/0/7,00,0
+19:52:38: [KnxDB::EVENT,KNX,DB:UDP,1/0/8,00,0
+19:52:38: [KnxDB::EVENT,KNX,DB:UDP,1/0/9,00,0
+19:52:38: [KnxDB::EVENT,KNX,DB:UDP,1/0/10,00,0
+19:52:38: [KnxDB::EVENT,KNX,DB:UDP,1/0/11,00,0
+19:52:38: [KnxDB::EVENT,KNX,DB:UDP,1/0/12,00,0
+19:52:38: [KnxDB::EVENT,KNX,DB:UDP,1/0/13,01,0
+19:52:38: [KnxDB::EVENT,KNX,DB:UDP,1/0/14,00,0
+19:52:38: [KnxDB::EVENT,KNX,DB:UDP,1/0/15,00,0
+19:52:38: [KnxDB::EVENT,KNX,DB:UDP,1/0/16,00,0
+19:52:38: [KnxDB::EVENT,KNX,DB:UDP,1/0/17,00,0
+19:52:39: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,00,0
+19:52:39: [KnxDB::EVENT,KNX,DB:UDP,1/1/2,00 00,0
+19:52:39: [KnxDB::EVENT,KNX,DB:UDP,1/1/13,00 FF,0
+19:53:17: [ModManager]: Restarting module: PSTN
+19:53:18: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+19:53:38: WRITE,ALARM,KNX:DB,10/1/1,01
+19:53:38: [KnxDB::WRITE,ALARM,KNX:DB,10/1/1,01
+19:53:38: WRITE,ALARM,KNX:DB,10/1/9,01
+19:53:38: [KnxDB::WRITE,ALARM,KNX:DB,10/1/9,01
+19:53:38: WRITE,ALARM,KNX:DB,10/1/1,00
+19:53:38: [KnxDB::WRITE,ALARM,KNX:DB,10/1/1,00
+19:53:49: WRITE,ALARM,KNX:DB,10/1/9,00
+19:53:49: [KnxDB::WRITE,ALARM,KNX:DB,10/1/9,00
+19:53:57: [ModManager]: Restarting module: PSTN
+19:54:00: [KnxDB::EVENT,KNX,DB:UDP,8/2/0,00 0D B7,0
+19:54:37: [ModManager]: Restarting module: PSTN
+19:55:16: [ModManager]: Restarting module: PSTN
+19:55:28: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+19:55:54: WRITE,ALARM,KNX:DB,1/0/18,01
+19:55:54: [KnxDB::WRITE,ALARM,KNX:DB,1/0/18,01
+19:55:54: WRITE,ALARM,KNX:DB,10/1/9,01
+19:55:54: [KnxDB::WRITE,ALARM,KNX:DB,10/1/9,01
+19:55:56: [ModManager]: Restarting module: PSTN
+19:56:02: WRITE,ALARM,KNX:DB,1/0/18,00
+19:56:02: [KnxDB::WRITE,ALARM,KNX:DB,1/0/18,00
+19:56:13: WRITE,ALARM,KNX:DB,10/1/9,00
+19:56:13: [KnxDB::WRITE,ALARM,KNX:DB,10/1/9,00
+19:56:21: [ModManager]: Restarting module: ALARM
+19:56:36: [ModManager]: Restarting module: PSTN
+19:57:16: [ModManager]: Restarting module: PSTN
+19:57:38: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+19:57:56: [ModManager]: Restarting module: PSTN
+19:58:03: WRITE,ALARM,KNX:DB,0/0/18,01
+19:58:03: [KnxDB::WRITE,ALARM,KNX:DB,0/0/18,01
+19:58:03: WRITE,ALARM,KNX:DB,10/1/9,01
+19:58:03: [KnxDB::WRITE,ALARM,KNX:DB,10/1/9,01
+19:58:06: WRITE,ALARM,KNX:DB,0/0/18,00
+19:58:06: [KnxDB::WRITE,ALARM,KNX:DB,0/0/18,00
+19:58:17: WRITE,ALARM,KNX:DB,10/1/9,00
+19:58:17: [KnxDB::WRITE,ALARM,KNX:DB,10/1/9,00
+19:58:35: [ModManager]: Restarting module: PSTN
+19:58:39: WRITE,ALARM,KNX:DB,0/0/18,01
+19:58:39: [KnxDB::WRITE,ALARM,KNX:DB,0/0/18,01
+19:58:39: WRITE,ALARM,KNX:DB,10/1/9,01
+19:58:39: [KnxDB::WRITE,ALARM,KNX:DB,10/1/9,01
+19:58:52: WRITE,ALARM,KNX:DB,0/0/18,00
+19:58:52: [KnxDB::WRITE,ALARM,KNX:DB,0/0/18,00
+19:59:01: [KnxDB::EVENT,KNX,DB:UDP,0/0/18,01,0
+19:59:01: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,01,0
+19:59:03: [KnxDB::EVENT,KNX,DB:UDP,0/0/18,00,0
+19:59:03: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,00,0
+19:59:03: WRITE,ALARM,KNX:DB,10/1/9,00
+19:59:03: [KnxDB::WRITE,ALARM,KNX:DB,10/1/9,00
+19:59:15: [ModManager]: Restarting module: PSTN
+19:59:21: [ModManager]: Restarting module: ALARM
+19:59:48: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+19:59:55: [ModManager]: Restarting module: PSTN
+20:00:15: WRITE,ALARM,KNX:DB,10/1/9,01
+20:00:15: [KnxDB::WRITE,ALARM,KNX:DB,10/1/9,01
+20:00:15: WRITE,ALARM,KNX:DB,0/0/18,01
+20:00:15: [KnxDB::WRITE,ALARM,KNX:DB,0/0/18,01
+20:00:20: WRITE,ALARM,KNX:DB,0/0/18,00
+20:00:20: [KnxDB::WRITE,ALARM,KNX:DB,0/0/18,00
+20:00:31: WRITE,ALARM,KNX:DB,10/1/9,00
+20:00:31: [KnxDB::WRITE,ALARM,KNX:DB,10/1/9,00
+20:00:34: [ModManager]: Restarting module: PSTN
+20:01:14: [ModManager]: Restarting module: PSTN
+20:01:21: Program started.
+20:01:21: [Console]: Staring console capture.
+20:01:21: [KnxGW::UdpThread] Send time on bus enabled.
+20:01:21: [ModManager]: Number of modules found: 5
+20:01:21: [ModManager]: tmpMod.name: EMAIL
+20:01:21: [ModManager]: tmpMod.name: GSM
+20:01:21: [ModManager]: tmpMod.name: TV
+20:01:21: [ModManager]: tmpMod.name: PSTN
+20:01:21: [ModManager]: tmpMod.name: ALARM
+20:01:21: [KnxDB::EVENT,KNX,DB:UDP,1/0/2,00,0
+20:01:21: [KnxDB::EVENT,KNX,DB:UDP,1/0/5,00,0
+20:01:21: [KnxDB::EVENT,KNX,DB:UDP,1/0/6,00,0
+20:01:21: [KnxDB::EVENT,KNX,DB:UDP,1/0/7,00,0
+20:01:21: [KnxDB::EVENT,KNX,DB:UDP,1/0/8,00,0
+20:01:21: [KnxDB::EVENT,KNX,DB:UDP,1/0/9,00,0
+20:01:22: [KnxDB::EVENT,KNX,DB:UDP,1/0/10,00,0
+20:01:22: [KnxDB::EVENT,KNX,DB:UDP,1/0/11,00,0
+20:01:22: [KnxDB::EVENT,KNX,DB:UDP,1/0/12,00,0
+20:01:22: [KnxDB::EVENT,KNX,DB:UDP,1/0/13,01,0
+20:01:22: [KnxDB::EVENT,KNX,DB:UDP,1/0/14,00,0
+20:01:22: [KnxDB::EVENT,KNX,DB:UDP,1/0/15,00,0
+20:01:22: [KnxDB::EVENT,KNX,DB:UDP,1/0/16,00,0
+20:01:22: [KnxDB::EVENT,KNX,DB:UDP,1/0/17,00,0
+20:01:22: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,00,0
+20:01:22: [KnxDB::EVENT,KNX,DB:UDP,1/1/2,00 00,0
+20:01:23: [KnxDB::EVENT,KNX,DB:UDP,1/1/13,00 FF,0
+20:01:28: WRITE,ALARM,KNX:DB,10/1/9,01
+20:01:28: [KnxDB::WRITE,ALARM,KNX:DB,10/1/9,01
+20:01:28: WRITE,ALARM,KNX:DB,0/0/18,01
+20:01:28: [KnxDB::WRITE,ALARM,KNX:DB,0/0/18,01
+20:01:28: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,01,0
+20:01:33: WRITE,ALARM,KNX:DB,0/0/18,00
+20:01:33: [KnxDB::WRITE,ALARM,KNX:DB,0/0/18,00
+20:01:33: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,00,0
+20:01:39: WRITE,ALARM,KNX:DB,0/0/18,01
+20:01:39: [KnxDB::WRITE,ALARM,KNX:DB,0/0/18,01
+20:01:39: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,01,0
+20:01:42: WRITE,ALARM,KNX:DB,0/0/18,00
+20:01:42: [KnxDB::WRITE,ALARM,KNX:DB,0/0/18,00
+20:01:42: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,00,0
+20:01:53: WRITE,ALARM,KNX:DB,10/1/9,00
+20:01:53: [KnxDB::WRITE,ALARM,KNX:DB,10/1/9,00
+20:01:58: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:02:01: [ModManager]: Restarting module: PSTN
+20:02:41: [ModManager]: Restarting module: PSTN
+20:03:04: WRITE,ALARM,KNX:DB,10/0/18,01
+20:03:04: [KnxDB::WRITE,ALARM,KNX:DB,10/0/18,01
+20:03:05: WRITE,ALARM,KNX:DB,0/0/8,01
+20:03:05: [KnxDB::WRITE,ALARM,KNX:DB,0/0/8,01
+20:03:05: [KnxDB::EVENT,KNX,DB:UDP,1/0/8,01,0
+20:03:05: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 20 00,0
+20:03:09: WRITE,ALARM,KNX:DB,10/0/18,00
+20:03:09: [KnxDB::WRITE,ALARM,KNX:DB,10/0/18,00
+20:03:21: [ModManager]: Restarting module: PSTN
+20:03:52: WRITE,ALARM,KNX:DB,10/0/18,01
+20:03:52: [KnxDB::WRITE,ALARM,KNX:DB,10/0/18,01
+20:03:52: WRITE,ALARM,KNX:DB,0/0/8,01
+20:03:52: [KnxDB::WRITE,ALARM,KNX:DB,0/0/8,01
+20:03:52: [KnxDB::EVENT,KNX,DB:UDP,1/0/8,01,0
+20:03:52: [KnxDB::EVENT,KNX,DB:UDP,1/0/8,01,0
+20:04:01: [ModManager]: Restarting module: PSTN
+20:04:08: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 20 00,0
+20:04:11: WRITE,ALARM,KNX:DB,10/0/18,00
+20:04:11: [KnxDB::WRITE,ALARM,KNX:DB,10/0/18,00
+20:04:41: [ModManager]: Restarting module: PSTN
+20:05:04: [ModManager]: Restarting module: ALARM
+20:05:21: [ModManager]: Restarting module: PSTN
+20:06:01: [ModManager]: Restarting module: PSTN
+20:06:18: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 20 00,0
+20:06:40: [ModManager]: Restarting module: PSTN
+20:07:20: [ModManager]: Restarting module: PSTN
+20:08:00: [ModManager]: Restarting module: PSTN
+20:08:28: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 20 00,0
+20:08:40: [ModManager]: Restarting module: PSTN
+20:09:00: [KnxDB::EVENT,KNX,DB:UDP,8/2/0,00 0D B7,0
+20:09:15: WRITE,ALARM,KNX:DB,0/0/8,00
+20:09:15: [KnxDB::WRITE,ALARM,KNX:DB,0/0/8,00
+20:09:16: [KnxDB::EVENT,KNX,DB:UDP,1/0/8,00,0
+20:09:16: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:09:19: [ModManager]: Restarting module: PSTN
+20:09:59: [ModManager]: Restarting module: PSTN
+20:10:38: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:10:39: [ModManager]: Restarting module: PSTN
+20:10:43: WRITE,ALARM,KNX:DB,10/0/18,01
+20:10:43: [KnxDB::WRITE,ALARM,KNX:DB,10/0/18,01
+20:10:43: WRITE,ALARM,KNX:DB,0/0/18,01
+20:10:43: [KnxDB::WRITE,ALARM,KNX:DB,0/0/18,01
+20:10:44: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,01,0
+20:10:48: WRITE,ALARM,KNX:DB,10/0/18,00
+20:10:48: [KnxDB::WRITE,ALARM,KNX:DB,10/0/18,00
+20:10:58: WRITE,ALARM,KNX:DB,10/0/18,01
+20:10:58: [KnxDB::WRITE,ALARM,KNX:DB,10/0/18,01
+20:11:06: WRITE,ALARM,KNX:DB,10/0/18,00
+20:11:06: [KnxDB::WRITE,ALARM,KNX:DB,10/0/18,00
+20:11:12: WRITE,ALARM,KNX:DB,10/0/18,01
+20:11:12: [KnxDB::WRITE,ALARM,KNX:DB,10/0/18,01
+20:11:15: WRITE,ALARM,KNX:DB,10/0/18,00
+20:11:15: [KnxDB::WRITE,ALARM,KNX:DB,10/0/18,00
+20:11:18: [ModManager]: Restarting module: PSTN
+20:11:51: WRITE,PSTN,KNX,0/0/18,01
+20:11:58: [ModManager]: Restarting module: PSTN
+20:12:36: WRITE,PSTN,KNX,0/0/18,01
+20:12:38: [ModManager]: Restarting module: PSTN
+20:12:48: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:13:17: [ModManager]: Restarting module: PSTN
+20:13:57: [ModManager]: Restarting module: PSTN
+20:14:08: WRITE,PSTN,KNX,0/0/18,00
+20:14:08: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,00,0
+20:14:37: [ModManager]: Restarting module: PSTN
+20:14:38: WRITE,PSTN,KNX,0/0/18,01
+20:14:38: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,01,0
+20:14:58: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:15:16: [ModManager]: Restarting module: PSTN
+20:15:56: [ModManager]: Restarting module: PSTN
+20:16:20: WRITE,ALARM,KNX:DB,0/0/18,00
+20:16:20: [KnxDB::WRITE,ALARM,KNX:DB,0/0/18,00
+20:16:20: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,00,0
+20:16:36: [ModManager]: Restarting module: PSTN
+20:17:08: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:17:15: [ModManager]: Restarting module: PSTN
+20:17:55: [ModManager]: Restarting module: PSTN
+20:18:35: [ModManager]: Restarting module: PSTN
+20:19:15: [ModManager]: Restarting module: PSTN
+20:19:18: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:19:55: [ModManager]: Restarting module: PSTN
+20:20:35: [ModManager]: Restarting module: PSTN
+20:21:15: [ModManager]: Restarting module: PSTN
+20:21:28: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:21:55: [ModManager]: Restarting module: PSTN
+20:22:35: [ModManager]: Restarting module: PSTN
+20:23:15: [ModManager]: Restarting module: PSTN
+20:23:38: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:23:55: [ModManager]: Restarting module: PSTN
+20:24:01: [KnxDB::EVENT,KNX,DB:UDP,8/2/0,00 0D B7,0
+20:24:36: [ModManager]: Restarting module: PSTN
+20:25:15: [ModManager]: Restarting module: PSTN
+20:25:48: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:25:56: [ModManager]: Restarting module: PSTN
+20:26:36: [ModManager]: Restarting module: PSTN
+20:27:16: [ModManager]: Restarting module: PSTN
+20:27:56: [ModManager]: Restarting module: PSTN
+20:27:58: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:28:36: [ModManager]: Restarting module: PSTN
+20:29:16: [ModManager]: Restarting module: PSTN
+20:29:56: [ModManager]: Restarting module: PSTN
+20:30:08: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:30:36: [ModManager]: Restarting module: PSTN
+20:31:15: [ModManager]: Restarting module: PSTN
+20:31:55: [ModManager]: Restarting module: PSTN
+20:32:18: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:32:35: [ModManager]: Restarting module: PSTN
+20:33:15: [ModManager]: Restarting module: PSTN
+20:33:38: WRITE,PSTN,KNX,0/0/18,01
+20:33:38: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,01,0
+20:33:55: [ModManager]: Restarting module: PSTN
+20:34:28: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:34:35: [ModManager]: Restarting module: PSTN
+20:35:14: [ModManager]: Restarting module: PSTN
+20:35:54: [ModManager]: Restarting module: PSTN
+20:36:34: [ModManager]: Restarting module: PSTN
+20:36:38: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:37:13: [ModManager]: Restarting module: PSTN
+20:37:53: [ModManager]: Restarting module: PSTN
+20:38:33: [ModManager]: Restarting module: PSTN
+20:38:48: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:39:00: [KnxDB::EVENT,KNX,DB:UDP,8/2/0,00 0D B6,0
+20:39:13: [ModManager]: Restarting module: PSTN
+20:39:53: [ModManager]: Restarting module: PSTN
+20:40:33: [ModManager]: Restarting module: PSTN
+20:40:58: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:41:13: [ModManager]: Restarting module: PSTN
+20:41:53: [ModManager]: Restarting module: PSTN
+20:42:33: [ModManager]: Restarting module: PSTN
+20:43:08: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:43:13: [ModManager]: Restarting module: PSTN
+20:43:53: [ModManager]: Restarting module: PSTN
+20:44:33: [ModManager]: Restarting module: PSTN
+20:45:13: [ModManager]: Restarting module: PSTN
+20:45:18: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:45:53: [ModManager]: Restarting module: PSTN
+20:46:33: [ModManager]: Restarting module: PSTN
+20:47:13: [ModManager]: Restarting module: PSTN
+20:47:28: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:47:53: [ModManager]: Restarting module: PSTN
+20:48:33: [ModManager]: Restarting module: PSTN
+20:49:13: [ModManager]: Restarting module: PSTN
+20:49:38: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:49:53: [ModManager]: Restarting module: PSTN
+20:50:33: [ModManager]: Restarting module: PSTN
+20:51:13: [ModManager]: Restarting module: PSTN
+20:51:48: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:51:53: [ModManager]: Restarting module: PSTN
+20:52:34: [ModManager]: Restarting module: PSTN
+20:53:13: [ModManager]: Restarting module: PSTN
+20:53:54: [ModManager]: Restarting module: PSTN
+20:53:58: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:54:00: [KnxDB::EVENT,KNX,DB:UDP,8/2/0,00 0D B6,0
+20:54:34: [ModManager]: Restarting module: PSTN
+20:55:13: [ModManager]: Restarting module: PSTN
+20:55:53: [ModManager]: Restarting module: PSTN
+20:56:08: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:56:33: [ModManager]: Restarting module: PSTN
+20:57:13: [ModManager]: Restarting module: PSTN
+20:57:53: [ModManager]: Restarting module: PSTN
+20:58:18: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+20:58:33: [ModManager]: Restarting module: PSTN
+20:59:12: [ModManager]: Restarting module: PSTN
+20:59:53: [ModManager]: Restarting module: PSTN
+21:00:28: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:00:33: [ModManager]: Restarting module: PSTN
+21:01:12: [ModManager]: Restarting module: PSTN
+21:01:52: [ModManager]: Restarting module: PSTN
+21:02:32: [ModManager]: Restarting module: PSTN
+21:02:38: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:03:12: [ModManager]: Restarting module: PSTN
+21:03:52: [ModManager]: Restarting module: PSTN
+21:04:32: [ModManager]: Restarting module: PSTN
+21:04:48: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:05:12: [ModManager]: Restarting module: PSTN
+21:05:47: WRITE,PSTN,KNX,0/0/18,01
+21:05:52: [ModManager]: Restarting module: PSTN
+21:06:01: WRITE,PSTN,KNX,0/0/18,00
+21:06:01: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,00,0
+21:06:14: WRITE,PSTN,KNX,0/0/18,01
+21:06:14: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,01,0
+21:06:31: [ModManager]: Restarting module: PSTN
+21:06:58: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:07:11: [ModManager]: Restarting module: PSTN
+21:07:51: [ModManager]: Restarting module: PSTN
+21:08:31: [ModManager]: Restarting module: PSTN
+21:08:59: [KnxDB::EVENT,KNX,DB:UDP,8/2/0,00 0D B4,0
+21:09:08: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:09:11: [ModManager]: Restarting module: PSTN
+21:09:51: [ModManager]: Restarting module: PSTN
+21:10:31: [ModManager]: Restarting module: PSTN
+21:11:10: [ModManager]: Restarting module: PSTN
+21:11:18: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:11:50: [ModManager]: Restarting module: PSTN
+21:12:30: [ModManager]: Restarting module: PSTN
+21:13:10: [ModManager]: Restarting module: PSTN
+21:13:29: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:13:50: [ModManager]: Restarting module: PSTN
+21:14:30: [ModManager]: Restarting module: PSTN
+21:15:09: [ModManager]: Restarting module: PSTN
+21:15:39: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:15:50: [ModManager]: Restarting module: PSTN
+21:16:29: [ModManager]: Restarting module: PSTN
+21:17:09: [ModManager]: Restarting module: PSTN
+21:17:49: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:17:49: [ModManager]: Restarting module: PSTN
+21:18:29: [ModManager]: Restarting module: PSTN
+21:19:09: [ModManager]: Restarting module: PSTN
+21:19:49: [ModManager]: Restarting module: PSTN
+21:19:59: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:20:29: [ModManager]: Restarting module: PSTN
+21:21:09: [ModManager]: Restarting module: PSTN
+21:21:49: [ModManager]: Restarting module: PSTN
+21:22:09: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:22:29: [ModManager]: Restarting module: PSTN
+21:23:09: [ModManager]: Restarting module: PSTN
+21:23:49: [ModManager]: Restarting module: PSTN
+21:24:00: [KnxDB::EVENT,KNX,DB:UDP,8/2/0,00 0D B1,0
+21:24:19: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:24:29: [ModManager]: Restarting module: PSTN
+21:25:08: [ModManager]: Restarting module: PSTN
+21:25:48: [ModManager]: Restarting module: PSTN
+21:26:29: [ModManager]: Restarting module: PSTN
+21:26:29: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:27:08: [ModManager]: Restarting module: PSTN
+21:27:48: [ModManager]: Restarting module: PSTN
+21:28:29: [ModManager]: Restarting module: PSTN
+21:28:39: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:29:08: [ModManager]: Restarting module: PSTN
+21:29:48: [ModManager]: Restarting module: PSTN
+21:30:13: [KnxDB::EVENT,KNX,DB:UDP,0/0/11,01,0
+21:30:13: [KnxDB::EVENT,KNX,DB:UDP,1/0/11,01,0
+21:30:13: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 04 00,0
+21:30:28: [KnxDB::EVENT,KNX,DB:UDP,0/0/11,00,0
+21:30:28: [ModManager]: Restarting module: PSTN
+21:30:29: [KnxDB::EVENT,KNX,DB:UDP,1/0/11,00,0
+21:30:29: [KnxDB::EVENT,KNX,DB:UDP,1/0/11,00,0
+21:30:29: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:30:38: [KnxDB::EVENT,KNX,DB:UDP,0/4/1,00,0
+21:30:38: [KnxDB::EVENT,KNX,DB:UDP,0/3/1,00,0
+21:30:40: [KnxDB::EVENT,KNX,DB:UDP,0/0/7,01,0
+21:30:40: [KnxDB::EVENT,KNX,DB:UDP,1/0/7,01,0
+21:30:49: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:31:08: [ModManager]: Restarting module: PSTN
+21:31:48: [ModManager]: Restarting module: PSTN
+21:32:28: [ModManager]: Restarting module: PSTN
+21:32:59: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:33:08: [ModManager]: Restarting module: PSTN
+21:33:48: [ModManager]: Restarting module: PSTN
+21:34:28: [ModManager]: Restarting module: PSTN
+21:35:08: [ModManager]: Restarting module: PSTN
+21:35:09: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:35:48: [ModManager]: Restarting module: PSTN
+21:36:28: [ModManager]: Restarting module: PSTN
+21:37:08: [ModManager]: Restarting module: PSTN
+21:37:19: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:37:48: [ModManager]: Restarting module: PSTN
+21:38:28: [ModManager]: Restarting module: PSTN
+21:38:59: [KnxDB::EVENT,KNX,DB:UDP,8/2/0,00 0D B0,0
+21:39:08: [ModManager]: Restarting module: PSTN
+21:39:29: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:39:48: [ModManager]: Restarting module: PSTN
+21:40:28: [ModManager]: Restarting module: PSTN
+21:41:08: [ModManager]: Restarting module: PSTN
+21:41:39: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:41:48: [ModManager]: Restarting module: PSTN
+21:42:28: [ModManager]: Restarting module: PSTN
+21:43:08: [ModManager]: Restarting module: PSTN
+21:43:48: [ModManager]: Restarting module: PSTN
+21:43:49: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:44:28: [ModManager]: Restarting module: PSTN
+21:45:08: [ModManager]: Restarting module: PSTN
+21:45:48: [ModManager]: Restarting module: PSTN
+21:45:59: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:46:28: [ModManager]: Restarting module: PSTN
+21:47:08: [ModManager]: Restarting module: PSTN
+21:47:48: [ModManager]: Restarting module: PSTN
+21:48:09: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+05:00:16: [ModManager]: Restarting module: PSTN
+05:00:55: [ModManager]: Restarting module: PSTN
+05:01:35: [ModManager]: Restarting module: PSTN
+05:00:28: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+05:00:02: [ModManager]: Restarting module: PSTN
+05:00:18: [ModManager]: Restarting module: PSTN
+05:00:58: [ModManager]: Restarting module: PSTN
+05:01:38: [ModManager]: Restarting module: PSTN
+05:01:40: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+05:02:18: [ModManager]: Restarting module: PSTN
+05:02:58: [ModManager]: Restarting module: PSTN
+05:03:00: [KnxDB::EVENT,KNX,DB:UDP,8/2/0,00 0D B1,0
+21:54:20: [ModManager]: Restarting module: PSTN
+21:54:31: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+21:54:59: [ModManager]: Restarting module: PSTN

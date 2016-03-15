@@ -1,0 +1,24 @@
+20:19:17: Program started.
+20:19:17: [KnxDB]: [DB] Connected to database.
+20:19:17: [Console]: Staring console capture.
+20:19:17: [ModManager]: Number of modules found: 3
+20:19:17: [ModManager]: tmpMod.name: EMAIL
+20:19:17: [ModManager]: tmpMod.name: GSM
+20:19:17: [ModManager]: tmpMod.name: TV
+20:19:17: [ModManager]: Number of params found: 4
+20:19:17: [ModManager]: mod_param: email.to:string
+20:19:17: [ModManager]: mod_param: email.subj:string
+20:19:17: [ModManager]: mod_param: email.body:string
+20:19:17: [ModManager]: mod_param: email.att:string
+20:19:17: [ModManager]: Number of params found: 2
+20:19:17: [ModManager]: mod_param: gsm.tel:string
+20:19:17: [ModManager]: mod_param: gsm.text:string
+20:19:17: [ModManager]: Number of params found: 5
+20:19:17: [ModManager]: mod_param: tv.id:string
+20:19:17: [ModManager]: mod_param: tv.cmd:string
+20:19:17: [ModManager]: mod_param: tv.data:string
+20:19:17: [ModManager]: mod_param: tv.predelay:int
+20:19:17: [ModManager]: mod_param: tv.postdelay:int
+20:19:17: [KnxGW]: Send time on bus enabled.
+20:47:48: [ModManager]: [::SendEvent]: GSM,EVENT,Το φως του εργαστηρίου έσβησε
+20:48:30: [ModManager]: [::SendEvent]: GSM,EVENT,2,gsm.tel=6906991177,gsm.text=Το φως του εργαστηρίου έσβησε

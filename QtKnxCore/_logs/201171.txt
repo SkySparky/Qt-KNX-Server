@@ -1,0 +1,116 @@
+23:46:01: Program started.
+23:46:11: Program started.
+23:46:11: [Console]: Staring console capture.
+23:46:11: [KnxGW::UdpThread] Send time on bus enabled.
+23:46:11: [KnxDB::EVENT,KNX,DB:UDP,1/0/2,00,0
+23:46:11: [ModManager]: Number of modules found: 3
+23:46:11: [ModManager]: tmpMod.name: EMAIL
+23:46:11: [ModManager]: tmpMod.name: GSM
+23:46:11: [ModManager]: tmpMod.name: TV
+23:46:12: [KnxDB::EVENT,KNX,DB:UDP,1/0/5,00,0
+23:46:12: [KnxDB::EVENT,KNX,DB:UDP,1/0/6,00,0
+23:46:12: [KnxDB::EVENT,KNX,DB:UDP,1/0/7,00,0
+23:46:12: [KnxDB::EVENT,KNX,DB:UDP,1/0/8,00,0
+23:46:12: [KnxDB::EVENT,KNX,DB:UDP,1/0/9,00,0
+23:46:12: [KnxDB::EVENT,KNX,DB:UDP,1/0/10,00,0
+23:46:12: [KnxDB::EVENT,KNX,DB:UDP,1/0/11,00,0
+23:46:12: [KnxDB::EVENT,KNX,DB:UDP,1/0/12,00,0
+23:46:12: [KnxDB::EVENT,KNX,DB:UDP,1/0/13,00,0
+23:46:12: [KnxDB::EVENT,KNX,DB:UDP,1/0/14,00,0
+23:46:12: [KnxDB::EVENT,KNX,DB:UDP,1/0/15,00,0
+23:46:12: [KnxDB::EVENT,KNX,DB:UDP,1/0/16,00,0
+23:46:12: [KnxDB::EVENT,KNX,DB:UDP,1/0/17,00,0
+23:46:13: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,01,0
+23:46:13: [KnxDB::EVENT,KNX,DB:UDP,1/1/2,00 00,0
+23:46:13: [KnxDB::EVENT,KNX,DB:UDP,1/1/13,00 00,0
+23:47:40: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+23:48:33: Program started.
+23:48:33: [Console]: Staring console capture.
+23:48:33: [KnxGW::UdpThread] Send time on bus enabled.
+23:48:33: [ModManager]: Number of modules found: 4
+23:48:33: [ModManager]: tmpMod.name: PSTN
+23:48:33: [ModManager]: tmpMod.name: GSM
+23:48:33: [ModManager]: tmpMod.name: TV
+23:48:33: [ModManager]: tmpMod.name: 
+23:48:33: Could not start Module Manager.
+23:48:40: Program started.
+23:48:40: [Console]: Staring console capture.
+23:48:40: [KnxGW::UdpThread] Send time on bus enabled.
+23:48:40: [ModManager]: Number of modules found: 4
+23:48:40: [ModManager]: tmpMod.name: PSTN
+23:48:40: [ModManager]: tmpMod.name: GSM
+23:48:40: [ModManager]: tmpMod.name: TV
+23:48:40: [ModManager]: tmpMod.name: 
+23:48:40: Could not start Module Manager.
+23:49:05: Program started.
+23:49:05: [Console]: Staring console capture.
+23:49:05: [KnxGW::UdpThread] Send time on bus enabled.
+23:49:06: [ModManager]: Number of modules found: 4
+23:49:06: [ModManager]: tmpMod.name: PSTN
+23:49:06: [ModManager]: tmpMod.name: GSM
+23:49:06: [ModManager]: tmpMod.name: TV
+23:49:06: [ModManager]: tmpMod.name: 
+23:49:06: Could not start Module Manager.
+23:49:23: Program started.
+23:49:23: [Console]: Staring console capture.
+23:49:23: [KnxGW::UdpThread] Send time on bus enabled.
+23:49:23: [ModManager]: Number of modules found: 4
+23:49:23: [ModManager]: tmpMod.name: EMAIL
+23:49:23: [ModManager]: tmpMod.name: GSM
+23:49:23: [ModManager]: tmpMod.name: TV
+23:49:23: [ModManager]: tmpMod.name: PSTN
+23:49:23: [KnxDB::EVENT,KNX,DB:UDP,1/0/2,00,0
+23:49:23: [KnxDB::EVENT,KNX,DB:UDP,1/0/5,00,0
+23:49:24: [KnxDB::EVENT,KNX,DB:UDP,1/0/6,00,0
+23:49:24: [KnxDB::EVENT,KNX,DB:UDP,1/0/7,00,0
+23:49:24: [KnxDB::EVENT,KNX,DB:UDP,1/0/8,00,0
+23:49:24: [KnxDB::EVENT,KNX,DB:UDP,1/0/9,00,0
+23:49:24: [KnxDB::EVENT,KNX,DB:UDP,1/0/10,00,0
+23:49:24: [KnxDB::EVENT,KNX,DB:UDP,1/0/11,00,0
+23:49:24: [KnxDB::EVENT,KNX,DB:UDP,1/0/12,00,0
+23:49:24: [KnxDB::EVENT,KNX,DB:UDP,1/0/13,00,0
+23:49:24: [KnxDB::EVENT,KNX,DB:UDP,1/0/14,00,0
+23:49:24: [KnxDB::EVENT,KNX,DB:UDP,1/0/15,00,0
+23:49:24: [KnxDB::EVENT,KNX,DB:UDP,1/0/16,00,0
+23:49:24: [KnxDB::EVENT,KNX,DB:UDP,1/0/17,00,0
+23:49:24: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,01,0
+23:49:25: [KnxDB::EVENT,KNX,DB:UDP,1/1/2,00 00,0
+23:49:25: [KnxDB::EVENT,KNX,DB:UDP,1/1/13,00 00,0
+23:49:32: EVENT,PSTN,KNX,0/0/18,00
+23:49:44: EVENT,PSTN,KNX,0/0/18,01
+23:49:50: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+23:50:02: [ModManager]: Restarting module: PSTN
+23:50:41: [ModManager]: Restarting module: PSTN
+23:51:03: EVENT,PSTN,KNX,0/0/18,00
+23:51:45: [ModManager]: Restarting module: PSTN
+23:52:00: WRITE,PSTN,KNX,0/0/18,00
+23:52:00: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+23:52:00: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,00,0
+23:52:03: WRITE,PSTN,KNX,0/0/18,01
+23:52:03: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,01,0
+23:52:24: [ModManager]: Restarting module: PSTN
+23:53:03: [ModManager]: Restarting module: PSTN
+23:53:41: [ModManager]: Restarting module: PSTN
+23:54:00: WRITE,PSTN,KNX,0/0/18,00
+23:54:00: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,00,0
+23:54:05: WRITE,PSTN,KNX,0/0/18,01
+23:54:05: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,01,0
+23:54:10: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+23:54:20: [ModManager]: Restarting module: PSTN
+23:54:59: [ModManager]: Restarting module: PSTN
+23:55:37: [ModManager]: Restarting module: PSTN
+23:56:00: [KnxDB::EVENT,KNX,DB:UDP,8/2/0,00 0D 65,0
+23:56:16: [ModManager]: Restarting module: PSTN
+23:56:20: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+23:56:55: [ModManager]: Restarting module: PSTN
+23:57:16: WRITE,PSTN,KNX,0/0/18,00
+23:57:16: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,00,0
+23:57:18: WRITE,PSTN,KNX,0/0/18,01
+23:57:18: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,01,0
+23:57:33: [ModManager]: Restarting module: PSTN
+23:58:12: [ModManager]: Restarting module: PSTN
+23:58:30: [KnxDB::EVENT,KNX,DB:UDP,8/2/2,00 FF C0 00 00,0
+23:58:43: WRITE,PSTN,KNX,0/0/18,00
+23:58:43: [KnxDB::EVENT,KNX,DB:UDP,1/0/18,00,0
+23:58:51: [ModManager]: Restarting module: PSTN
+23:59:29: [ModManager]: Restarting module: PSTN

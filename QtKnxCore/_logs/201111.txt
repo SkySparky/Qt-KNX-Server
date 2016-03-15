@@ -1,0 +1,5 @@
+20:21:20: Program started.
+20:21:20: [ModManager]: Number of modules found: 0
+20:21:53: Program started.
+20:21:53: [ModManager]: Number of modules found: 0
+20:21:53: [KnxDB]: [DB] Connected to database.

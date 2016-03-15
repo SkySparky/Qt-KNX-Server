@@ -1,0 +1,253 @@
+15:36:01: Program started.
+15:36:02: [ModManager]: Number of modules found: 0
+15:36:02: [KnxDB]: [DB] Connected to database.
+15:36:02: [KnxGW]: Send time on bus enabled.
+15:37:14: Program started.
+15:37:14: [ModManager]: Number of modules found: 0
+15:37:15: [KnxDB]: [DB] Connected to database.
+15:37:17: [KnxGW]: Send time on bus enabled.
+15:39:43: Program started.
+15:39:44: [ModManager]: Number of modules found: 0
+15:39:44: [KnxDB]: [DB] Connected to database.
+15:39:44: [KnxGW]: Send time on bus enabled.
+15:46:40: Program started.
+15:46:40: [ModManager]: Number of modules found: 0
+15:46:40: [KnxDB]: [DB] Connected to database.
+15:46:40: [KnxGW]: Send time on bus enabled.
+15:47:18: [KnxDB]: [KnxDB::AddValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':ga,:pa,:val,:ts)' at line 1 QMYSQL: Unable to execute query
+15:47:18: [KnxDB]: [KnxDB::UpdateDependencies]: query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pga' at line 1 QMYSQL: Unable to execute query
+15:50:04: Program started.
+15:50:04: [ModManager]: Number of modules found: 0
+15:50:05: [KnxDB]: [DB] Connected to database.
+15:50:41: Program started.
+15:50:41: [ModManager]: Number of modules found: 0
+15:50:41: [KnxDB]: [DB] Connected to database.
+15:50:41: [KnxGW]: Send time on bus enabled.
+15:51:45: Program started.
+15:51:45: [ModManager]: Number of modules found: 0
+15:51:46: [KnxDB]: [DB] Connected to database.
+15:51:48: [KnxGW]: Send time on bus enabled.
+15:54:43: Program started.
+15:54:43: [ModManager]: Number of modules found: 0
+15:54:43: [KnxDB]: [DB] Connected to database.
+15:54:43: [KnxGW]: Send time on bus enabled.
+16:34:01: Program started.
+16:34:01: [ModManager]: Number of modules found: 0
+16:34:01: [KnxDB]: [DB] Connected to database.
+16:34:33: Program started.
+16:34:33: [ModManager]: Number of modules found: 0
+16:34:33: [KnxDB]: [DB] Connected to database.
+16:39:41: Program started.
+16:39:41: [ModManager]: Number of modules found: 0
+16:39:41: [KnxDB]: [DB] Connected to database.
+16:48:23: Program started.
+16:48:23: [ModManager]: Number of modules found: 0
+16:48:23: [KnxDB]: [DB] Connected to database.
+16:50:08: Program started.
+16:50:08: [ModManager]: Number of modules found: 0
+16:50:08: [KnxDB]: [DB] Connected to database.
+16:50:28: Program started.
+16:50:28: [ModManager]: Number of modules found: 0
+16:50:28: [KnxDB]: [DB] Connected to database.
+16:50:55: Program started.
+16:50:55: [ModManager]: Number of modules found: 0
+16:50:55: [KnxDB]: [DB] Connected to database.
+16:51:25: Program started.
+16:51:25: [ModManager]: Number of modules found: 0
+16:51:26: [KnxDB]: [DB] Connected to database.
+16:53:59: Program started.
+16:53:59: [ModManager]: Number of modules found: 0
+16:53:59: [KnxDB]: [DB] Connected to database.
+16:54:56: [KnxGW]: Send time on bus enabled.
+16:54:56: [Console]: Staring console capture.
+16:55:03: [Console]: Quit from user
+16:55:37: Program started.
+16:55:37: [ModManager]: Number of modules found: 0
+16:55:37: [KnxDB]: [DB] Connected to database.
+16:55:37: [KnxGW]: Send time on bus enabled.
+16:55:37: [Console]: Staring console capture.
+16:55:44: [Console]: Quit from user
+16:55:54: Program started.
+16:55:54: [ModManager]: Number of modules found: 0
+16:55:55: [KnxDB]: [DB] Connected to database.
+16:55:55: [KnxGW]: Send time on bus enabled.
+16:55:55: [Console]: Staring console capture.
+17:56:18: [Console]: Quit from user
+18:45:21: Program started.
+18:45:21: [ModManager]: Number of modules found: 0
+18:45:21: [KnxDB]: [DB] Connected to database.
+18:45:21: [Console]: Staring console capture.
+18:46:20: Program started.
+18:46:20: [ModManager]: Number of modules found: 0
+18:46:20: [KnxDB]: [DB] Connected to database.
+18:46:22: [Console]: Staring console capture.
+18:46:22: [KnxGW]: Send time on bus enabled.
+18:46:34: Program started.
+18:46:34: [ModManager]: Number of modules found: 0
+18:46:34: [KnxDB]: [DB] Connected to database.
+18:46:36: [Console]: Staring console capture.
+18:46:36: [KnxGW]: Send time on bus enabled.
+18:47:09: [KnxDB]: [KnxDB::AddValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':ga,:pa,:val,:ts)' at line 1 QMYSQL: Unable to execute query
+18:47:09: [KnxDB]: [KnxDB::UpdateDependencies]: query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pga' at line 1 QMYSQL: Unable to execute query
+18:49:19: [KnxDB]: [KnxDB::AddValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':ga,:pa,:val,:ts)' at line 1 QMYSQL: Unable to execute query
+18:49:19: [KnxDB]: [KnxDB::UpdateDependencies]: query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pga' at line 1 QMYSQL: Unable to execute query
+18:49:25: [Console]: Quit from user
+19:03:14: Program started.
+19:03:14: [ModManager]: Number of modules found: 0
+19:03:14: [KnxDB]: [DB] Connected to database.
+19:03:14: [Console]: Staring console capture.
+19:03:15: [KnxGW]: Send time on bus enabled.
+19:04:29: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':ga,:pa,:val,:ts)' at line 1 QMYSQL: Unable to execute query
+19:04:29: [KnxDB]: [KnxDB::UpdateDependencies]: query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pga' at line 1 QMYSQL: Unable to execute query
+19:06:39: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':ga,:pa,:val,:ts)' at line 1 QMYSQL: Unable to execute query
+19:06:39: [KnxDB]: [KnxDB::UpdateDependencies]: query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pga' at line 1 QMYSQL: Unable to execute query
+19:08:27: [Console]: Quit from user
+19:08:34: Program started.
+19:08:34: [ModManager]: Number of modules found: 0
+19:08:34: [KnxDB]: [DB] Connected to database.
+19:08:34: [Console]: Staring console capture.
+19:08:34: [KnxGW]: Send time on bus enabled.
+19:08:49: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':ga,:pa,:val,:ts)' at line 1 QMYSQL: Unable to execute query
+19:08:49: [KnxDB]: [KnxDB::UpdateDependencies]: query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pga' at line 1 QMYSQL: Unable to execute query
+19:10:35: [Console]: Quit from user
+19:10:45: Program started.
+19:10:45: [ModManager]: Number of modules found: 0
+19:10:45: [KnxDB]: [DB] Connected to database.
+19:10:45: [Console]: Staring console capture.
+19:10:45: [KnxGW]: Send time on bus enabled.
+19:10:59: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':ga,:pa,:val,:ts)' at line 1 QMYSQL: Unable to execute query
+19:10:59: [KnxDB]: [KnxDB::UpdateDependencies]: query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pga' at line 1 QMYSQL: Unable to execute query
+19:13:09: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':ga,:pa,:val,:ts)' at line 1 QMYSQL: Unable to execute query
+19:13:09: [KnxDB]: [KnxDB::UpdateDependencies]: query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pga' at line 1 QMYSQL: Unable to execute query
+19:13:12: [Console]: Quit from user
+19:13:23: Program started.
+19:13:23: [ModManager]: Number of modules found: 0
+19:13:23: [KnxDB]: [DB] Connected to database.
+19:13:23: [Console]: Staring console capture.
+19:13:23: [KnxGW]: Send time on bus enabled.
+19:14:00: [KnxDB]: [KnxDB::UpdateDependencies]: query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pga' at line 1 QMYSQL: Unable to execute query
+19:16:05: Program started.
+19:16:06: [ModManager]: Number of modules found: 0
+19:16:06: [KnxDB]: [DB] Connected to database.
+19:16:06: [Console]: Staring console capture.
+19:16:06: [KnxGW]: Send time on bus enabled.
+19:17:28: Program started.
+19:17:29: [ModManager]: Number of modules found: 0
+19:17:29: [KnxDB]: [DB] Connected to database.
+19:17:31: [Console]: Staring console capture.
+19:17:31: [KnxGW]: Send time on bus enabled.
+19:19:07: [Console]: Quit from user
+19:19:51: Program started.
+19:19:52: [ModManager]: Number of modules found: 0
+19:19:52: [KnxDB]: [DB] Connected to database.
+19:19:52: [Console]: Staring console capture.
+19:19:52: [KnxGW]: Send time on bus enabled.
+19:20:28: [Console]: Quit from user
+19:20:35: Program started.
+19:20:35: [ModManager]: Number of modules found: 0
+19:20:35: [KnxDB]: [DB] Connected to database.
+19:20:35: [Console]: Staring console capture.
+19:20:35: [KnxGW]: Send time on bus enabled.
+19:21:44: [Console]: Quit from user
+19:21:54: Program started.
+19:21:54: [ModManager]: Number of modules found: 0
+19:21:54: [KnxDB]: [DB] Connected to database.
+19:21:54: [Console]: Staring console capture.
+19:21:54: [KnxGW]: Send time on bus enabled.
+19:22:58: [Console]: Quit from user
+19:23:05: Program started.
+19:23:05: [ModManager]: Number of modules found: 0
+19:23:05: [KnxDB]: [DB] Connected to database.
+19:23:05: [Console]: Staring console capture.
+19:23:05: [KnxGW]: Send time on bus enabled.
+19:23:59: [KnxDB]: [KnxDB::UpdateDependencies]: query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pga' at line 1 QMYSQL: Unable to execute query
+19:24:08: [Console]: Quit from user
+19:27:56: Program started.
+19:27:57: [ModManager]: Number of modules found: 0
+19:27:57: [KnxDB]: [DB] Connected to database.
+19:27:57: [Console]: Staring console capture.
+19:27:57: [KnxGW]: Send time on bus enabled.
+19:27:57: [KnxDB]: [KnxDB::UpdateDependencies]: query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pga' at line 1 QMYSQL: Unable to execute query
+19:28:19: [KnxDB]: [KnxDB::UpdateDependencies]: query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pga' at line 1 QMYSQL: Unable to execute query
+19:28:59: [KnxDB]: [KnxDB::UpdateDependencies]: query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pga' at line 1 QMYSQL: Unable to execute query
+19:30:19: [Console]: Quit from user
+19:30:29: Program started.
+19:30:29: [ModManager]: Number of modules found: 0
+19:30:29: [KnxDB]: [DB] Connected to database.
+19:30:29: [Console]: Staring console capture.
+19:30:30: [KnxGW]: Send time on bus enabled.
+19:30:48: [Console]: Quit from user
+19:30:55: Program started.
+19:30:55: [ModManager]: Number of modules found: 0
+19:30:55: [KnxDB]: [DB] Connected to database.
+19:30:55: [Console]: Staring console capture.
+19:30:55: [KnxGW]: Send time on bus enabled.
+19:33:49: [Console]: Quit from user
+19:39:42: Program started.
+19:39:42: [ModManager]: Number of modules found: 0
+19:39:42: [KnxDB]: [DB] Connected to database.
+19:39:42: [Console]: Staring console capture.
+19:39:42: [KnxGW]: Send time on bus enabled.
+19:45:26: [Console]: Quit from user
+19:45:35: Program started.
+19:45:35: [ModManager]: Number of modules found: 0
+19:45:35: [KnxDB]: [DB] Connected to database.
+19:45:36: [Console]: Staring console capture.
+19:45:36: [KnxGW]: Send time on bus enabled.
+19:46:48: [Console]: Quit from user
+19:46:59: Program started.
+19:46:59: [ModManager]: Number of modules found: 0
+19:47:00: [KnxDB]: [DB] Connected to database.
+19:47:00: [Console]: Staring console capture.
+19:47:00: [KnxGW]: Send time on bus enabled.
+19:47:19: [Console]: Quit from user
+19:47:44: Program started.
+19:47:44: [ModManager]: Number of modules found: 0
+19:47:44: [KnxDB]: [DB] Connected to database.
+19:47:44: [Console]: Staring console capture.
+19:47:45: [KnxGW]: Send time on bus enabled.
+19:47:48: [Console]: Quit from user
+19:47:57: Program started.
+19:47:57: [ModManager]: Number of modules found: 0
+19:47:57: [KnxDB]: [DB] Connected to database.
+19:47:57: [Console]: Staring console capture.
+19:47:57: [KnxGW]: Send time on bus enabled.
+20:31:11: Program started.
+20:31:11: [ModManager]: Number of modules found: 3
+20:31:11: [ModManager]: tmpMod.name: EMAIL
+20:31:11: [ModManager]: tmpMod.name: GSM
+20:31:11: [ModManager]: tmpMod.name: TV
+20:31:11: [KnxDB]: [DB] Connected to database.
+20:31:11: [Console]: Staring console capture.
+20:31:11: [KnxGW]: Send time on bus enabled.
+20:31:33: [Console]: Quit from user
+20:31:42: Program started.
+20:31:43: [ModManager]: Number of modules found: 3
+20:31:43: [ModManager]: tmpMod.name: EMAIL
+20:31:43: [ModManager]: tmpMod.name: GSM
+20:31:43: [ModManager]: tmpMod.name: TV
+20:31:43: [KnxDB]: [DB] Connected to database.
+20:31:43: [Console]: Staring console capture.
+20:31:43: [KnxGW]: Send time on bus enabled.
+20:32:04: [Console]: Quit from user
+20:32:10: Program started.
+20:32:10: [ModManager]: Number of modules found: 3
+20:32:10: [ModManager]: tmpMod.name: EMAIL
+20:32:10: [ModManager]: tmpMod.name: GSM
+20:32:10: [ModManager]: tmpMod.name: TV
+20:32:10: [KnxDB]: [DB] Connected to database.
+20:32:10: [Console]: Staring console capture.
+20:32:11: [KnxGW]: Send time on bus enabled.
+20:32:57: [Console]: Quit from user
+20:33:09: Program started.
+20:33:10: [ModManager]: Number of modules found: 3
+20:33:10: [ModManager]: tmpMod.name: EMAIL
+20:33:10: [ModManager]: tmpMod.name: GSM
+20:33:10: [ModManager]: tmpMod.name: TV
+20:33:10: [KnxDB]: [DB] Connected to database.
+20:33:10: [Console]: Staring console capture.
+20:33:10: [KnxGW]: Send time on bus enabled.
+20:33:11: [ModManager]: [::SendEvent]: GSM,EVENT,2,gsm.tel=6906991177,gsm.text=This is a test
+20:33:41: [ModManager]: [::SendEvent]: GSM,EVENT,2,gsm.tel=6906991177,gsm.text=This is a test
+20:34:08: [ModManager]: [::SendEvent]: GSM,EVENT,2,gsm.tel=6906991177,gsm.text=This is a test
+20:35:08: [ModManager]: [::SendEvent]: GSM,EVENT,2,gsm.tel=6906991177,gsm.text=’νοιξε το φως του εργαστηρίου

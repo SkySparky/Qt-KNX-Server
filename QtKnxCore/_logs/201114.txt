@@ -1,0 +1,86 @@
+22:12:02: Program started.
+22:12:03: [ModManager]: Number of modules found: 3
+22:12:03: [ModManager]: tmpMod.name: EMAIL
+22:12:03: [ModManager]: tmpMod.name: GSM
+22:12:03: [ModManager]: tmpMod.name: TV
+22:12:03: [KnxDB]: [DB] Connected to database.
+22:12:03: [Console]: Staring console capture.
+22:12:03: [KnxGW]: Send time on bus enabled.
+22:12:04: [ModManager]: [::SendEvent]: GSM,EVENT,2,gsm.tel=6906991177,gsm.text=’νοιξε το φως του εργαστηρίου
+23:00:13: [Console]: Quit from user
+23:09:08: Program started.
+23:09:08: [ModManager]: Number of modules found: 3
+23:09:08: [ModManager]: tmpMod.name: EMAIL
+23:09:08: [ModManager]: tmpMod.name: GSM
+23:09:08: [ModManager]: tmpMod.name: TV
+23:09:08: [KnxDB]: [DB] Connected to database.
+23:09:45: Program started.
+23:09:46: [ModManager]: Number of modules found: 3
+23:09:46: [ModManager]: tmpMod.name: EMAIL
+23:09:46: [ModManager]: tmpMod.name: GSM
+23:09:46: [ModManager]: tmpMod.name: TV
+23:09:46: [KnxDB]: [DB] Connected to database.
+23:09:46: [Console]: Staring console capture.
+23:09:46: [KnxGW]: Send time on bus enabled.
+23:09:47: [ModManager]: [::SendEvent]: GSM,EVENT,2,gsm.tel=6906991177,gsm.text=’νοιξε το φως του εργαστηρίου
+23:10:10: [Console]: Quit from user
+23:12:28: Program started.
+23:12:28: [ModManager]: Number of modules found: 3
+23:12:28: [ModManager]: tmpMod.name: EMAIL
+23:12:28: [ModManager]: tmpMod.name: GSM
+23:12:28: [ModManager]: tmpMod.name: TV
+23:12:28: [KnxDB]: [DB] Connected to database.
+23:12:28: [Console]: Staring console capture.
+23:12:28: [KnxGW]: Send time on bus enabled.
+23:13:25: [Console]: Quit from user
+23:14:13: Program started.
+23:14:13: [ModManager]: Number of modules found: 3
+23:14:13: [ModManager]: tmpMod.name: EMAIL
+23:14:13: [ModManager]: tmpMod.name: GSM
+23:14:13: [ModManager]: tmpMod.name: TV
+23:14:13: [KnxDB]: [DB] Connected to database.
+23:14:13: [Console]: Staring console capture.
+23:14:13: [KnxGW]: Send time on bus enabled.
+23:16:27: [KnxDB]: GSM,ENT,2,gsm.tel=6906991177,gsm.text=Αυτό είναι ένα κείμενο στα ελληνικά
+23:16:27: [KnxDB]: GSM,ENT,2,gsm.tel=6906991177,gsm.text=Αυτό είναι ένα κείμενο στα ελληνικά
+23:16:27: [Console]: Quit from user
+23:20:25: Program started.
+23:20:25: [ModManager]: Number of modules found: 3
+23:20:25: [ModManager]: tmpMod.name: EMAIL
+23:20:25: [ModManager]: tmpMod.name: GSM
+23:20:25: [ModManager]: tmpMod.name: TV
+23:20:26: [KnxDB]: [DB] Connected to database.
+23:20:26: [Console]: Staring console capture.
+23:20:26: [KnxGW]: Send time on bus enabled.
+23:21:05: [Console]: Quit from user
+23:21:19: Program started.
+23:21:20: [ModManager]: Number of modules found: 3
+23:21:20: [ModManager]: tmpMod.name: EMAIL
+23:21:20: [ModManager]: tmpMod.name: GSM
+23:21:20: [ModManager]: tmpMod.name: TV
+23:21:20: [KnxDB]: [DB] Connected to database.
+23:21:20: [Console]: Staring console capture.
+23:21:20: [KnxDB]: GSM,ENT,2,gsm.tel=6906991177,gsm.text=Αυτό είναι ένα κείμενο στα ελληνικά
+23:21:26: [KnxDB]: GSM,ENT,2,gsm.tel=6906991177,gsm.text=Αυτό είναι ένα κείμενο στα ελληνικά
+23:21:33: [KnxDB]: GSM,ENT,2,gsm.tel=6906991177,gsm.text=Αυτό είναι ένα κείμενο στα ελληνικά
+23:39:10: Program started.
+23:39:10: [ModManager]: Number of modules found: 3
+23:39:10: [ModManager]: tmpMod.name: EMAIL
+23:39:10: [ModManager]: tmpMod.name: GSM
+23:39:10: [ModManager]: tmpMod.name: TV
+23:39:10: [KnxDB]: [DB] Connected to database.
+23:39:10: [Console]: Staring console capture.
+23:39:31: Program started.
+23:39:31: [ModManager]: Number of modules found: 3
+23:39:31: [ModManager]: tmpMod.name: EMAIL
+23:39:31: [ModManager]: tmpMod.name: GSM
+23:39:31: [ModManager]: tmpMod.name: TV
+23:39:31: [KnxDB]: [DB] Connected to database.
+23:39:33: [Console]: Staring console capture.
+23:44:04: Program started.
+23:44:04: [ModManager]: Number of modules found: 3
+23:44:04: [ModManager]: tmpMod.name: EMAIL
+23:44:04: [ModManager]: tmpMod.name: GSM
+23:44:04: [ModManager]: tmpMod.name: TV
+23:44:05: [KnxDB]: [DB] Connected to database.
+23:44:05: [Console]: Staring console capture.

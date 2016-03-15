@@ -1,0 +1,36 @@
+20:51:00: Program started.
+20:52:24: Program started.
+20:52:24: [Console]: Staring console capture.
+20:52:24: [ModManager]: Number of modules found: 5
+20:52:24: [ModManager]: tmpMod.name: EMAIL
+20:52:24: [ModManager]: tmpMod.name: GSM
+20:52:24: [ModManager]: tmpMod.name: TV
+20:52:24: [ModManager]: tmpMod.name: PSTN
+20:52:24: [ModManager]: tmpMod.name: ALARM
+20:52:24: Could not start Module Manager.
+20:54:32: Program started.
+20:54:32: [Console]: Staring console capture.
+20:54:33: [ModManager]: Number of modules found: 5
+20:54:33: [ModManager]: tmpMod.name: EMAIL
+20:54:33: [ModManager]: tmpMod.name: GSM
+20:54:33: [ModManager]: tmpMod.name: TV
+20:54:33: [ModManager]: tmpMod.name: PSTN
+20:54:33: [ModManager]: tmpMod.name: ALARM
+20:54:33: Could not start Module Manager.
+20:55:47: Program started.
+20:55:47: [Console]: Staring console capture.
+20:55:47: [ModManager]: Number of modules found: 5
+20:55:47: [ModManager]: tmpMod.name: EMAIL
+20:55:47: [ModManager]: tmpMod.name: GSM
+20:55:47: [ModManager]: tmpMod.name: TV
+20:55:47: [ModManager]: tmpMod.name: PSTN
+20:55:47: [ModManager]: tmpMod.name: ALARM
+20:55:47: Could not start Module Manager.
+20:56:37: Program started.
+20:56:37: [Console]: Staring console capture.
+20:56:37: [ModManager]: Number of modules found: 0
+20:56:50: Program started.
+20:56:50: [Console]: Staring console capture.
+20:56:50: [ModManager]: Number of modules found: 1
+20:56:50: [ModManager]: tmpMod.name: EMAIL
+20:56:50: Could not start Module Manager.

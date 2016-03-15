@@ -1,0 +1,977 @@
+20:03:56: Program started.
+20:03:56: [ModManager]: Number of modules found: 3
+20:03:56: [ModManager]: tmpMod.name: EMAIL
+20:03:56: [ModManager]: tmpMod.name: GSM
+20:03:56: [ModManager]: tmpMod.name: TV
+20:03:57: [KnxDB]: [DB] Connected to database.
+20:03:57: [Console]: Staring console capture.
+20:04:12: Program started.
+20:04:12: [ModManager]: Number of modules found: 3
+20:04:12: [ModManager]: tmpMod.name: EMAIL
+20:04:12: [ModManager]: tmpMod.name: GSM
+20:04:12: [ModManager]: tmpMod.name: TV
+20:04:12: [KnxDB]: [DB] Connected to database.
+20:04:14: [Console]: Staring console capture.
+20:05:46: Program started.
+20:05:46: [ModManager]: Number of modules found: 3
+20:05:46: [ModManager]: tmpMod.name: EMAIL
+20:05:46: [ModManager]: tmpMod.name: GSM
+20:05:46: [ModManager]: tmpMod.name: TV
+20:05:46: [KnxDB]: [DB] Connected to database.
+20:05:48: [Console]: Staring console capture.
+20:12:04: Program started.
+20:12:04: [ModManager]: Number of modules found: 3
+20:12:04: [ModManager]: tmpMod.name: EMAIL
+20:12:04: [ModManager]: tmpMod.name: GSM
+20:12:04: [ModManager]: tmpMod.name: TV
+20:12:05: [ModManager]: Number of modules found: 3
+20:12:05: [ModManager]: tmpMod.name: EMAIL
+20:12:05: [ModManager]: tmpMod.name: GSM
+20:12:05: [ModManager]: tmpMod.name: TV
+20:12:05: [ModManager]: Number of modules found: 3
+20:12:05: [ModManager]: tmpMod.name: EMAIL
+20:12:05: [ModManager]: tmpMod.name: GSM
+20:12:05: [ModManager]: tmpMod.name: TV
+20:12:05: [ModManager]: Number of modules found: 3
+20:12:05: [ModManager]: tmpMod.name: EMAIL
+20:12:05: [ModManager]: tmpMod.name: GSM
+20:12:05: [ModManager]: tmpMod.name: TV
+20:12:06: [ModManager]: Number of modules found: 3
+20:12:06: [ModManager]: tmpMod.name: EMAIL
+20:12:06: [ModManager]: tmpMod.name: GSM
+20:12:06: [ModManager]: tmpMod.name: TV
+20:12:06: [ModManager]: Number of modules found: 3
+20:12:06: [ModManager]: tmpMod.name: EMAIL
+20:12:06: [ModManager]: tmpMod.name: GSM
+20:12:06: [ModManager]: tmpMod.name: TV
+20:12:07: [ModManager]: Number of modules found: 3
+20:12:07: [ModManager]: tmpMod.name: EMAIL
+20:12:07: [ModManager]: tmpMod.name: GSM
+20:12:07: [ModManager]: tmpMod.name: TV
+20:12:07: [ModManager]: Number of modules found: 3
+20:12:07: [ModManager]: tmpMod.name: EMAIL
+20:12:07: [ModManager]: tmpMod.name: GSM
+20:12:07: [ModManager]: tmpMod.name: TV
+20:12:08: [ModManager]: Number of modules found: 3
+20:12:08: [ModManager]: tmpMod.name: EMAIL
+20:12:08: [ModManager]: tmpMod.name: GSM
+20:12:08: [ModManager]: tmpMod.name: TV
+20:12:08: [ModManager]: Number of modules found: 3
+20:12:08: [ModManager]: tmpMod.name: EMAIL
+20:12:08: [ModManager]: tmpMod.name: GSM
+20:12:08: [ModManager]: tmpMod.name: TV
+20:12:08: [ModManager]: Number of modules found: 3
+20:12:08: [ModManager]: tmpMod.name: EMAIL
+20:12:08: [ModManager]: tmpMod.name: GSM
+20:12:08: [ModManager]: tmpMod.name: TV
+20:12:09: [ModManager]: Number of modules found: 3
+20:12:09: [ModManager]: tmpMod.name: EMAIL
+20:12:09: [ModManager]: tmpMod.name: GSM
+20:12:09: [ModManager]: tmpMod.name: TV
+20:12:09: [ModManager]: Number of modules found: 3
+20:12:09: [ModManager]: tmpMod.name: EMAIL
+20:12:09: [ModManager]: tmpMod.name: GSM
+20:12:09: [ModManager]: tmpMod.name: TV
+20:12:10: [ModManager]: Number of modules found: 3
+20:12:10: [ModManager]: tmpMod.name: EMAIL
+20:12:10: [ModManager]: tmpMod.name: GSM
+20:12:10: [ModManager]: tmpMod.name: TV
+20:12:10: [ModManager]: Number of modules found: 3
+20:12:10: [ModManager]: tmpMod.name: EMAIL
+20:12:10: [ModManager]: tmpMod.name: GSM
+20:12:10: [ModManager]: tmpMod.name: TV
+20:12:11: [ModManager]: Number of modules found: 3
+20:12:11: [ModManager]: tmpMod.name: EMAIL
+20:12:11: [ModManager]: tmpMod.name: GSM
+20:12:11: [ModManager]: tmpMod.name: TV
+20:12:12: [ModManager]: Number of modules found: 3
+20:12:12: [ModManager]: tmpMod.name: EMAIL
+20:12:12: [ModManager]: tmpMod.name: GSM
+20:12:12: [ModManager]: tmpMod.name: TV
+20:12:12: [ModManager]: Number of modules found: 3
+20:12:12: [ModManager]: tmpMod.name: EMAIL
+20:12:12: [ModManager]: tmpMod.name: GSM
+20:12:12: [ModManager]: tmpMod.name: TV
+20:12:13: [ModManager]: Number of modules found: 3
+20:12:13: [ModManager]: tmpMod.name: EMAIL
+20:12:13: [ModManager]: tmpMod.name: GSM
+20:12:13: [ModManager]: tmpMod.name: TV
+20:12:13: [ModManager]: Number of modules found: 3
+20:12:13: [ModManager]: tmpMod.name: EMAIL
+20:12:13: [ModManager]: tmpMod.name: GSM
+20:12:13: [ModManager]: tmpMod.name: TV
+20:12:14: [ModManager]: Number of modules found: 3
+20:12:14: [ModManager]: tmpMod.name: EMAIL
+20:12:14: [ModManager]: tmpMod.name: GSM
+20:12:14: [ModManager]: tmpMod.name: TV
+20:12:15: [ModManager]: Number of modules found: 3
+20:12:15: [ModManager]: tmpMod.name: EMAIL
+20:12:15: [ModManager]: tmpMod.name: GSM
+20:12:15: [ModManager]: tmpMod.name: TV
+20:12:15: [ModManager]: Number of modules found: 3
+20:12:15: [ModManager]: tmpMod.name: EMAIL
+20:12:15: [ModManager]: tmpMod.name: GSM
+20:12:15: [ModManager]: tmpMod.name: TV
+20:12:16: [ModManager]: Number of modules found: 3
+20:12:16: [ModManager]: tmpMod.name: EMAIL
+20:12:16: [ModManager]: tmpMod.name: GSM
+20:12:16: [ModManager]: tmpMod.name: TV
+20:12:17: [ModManager]: Number of modules found: 3
+20:12:17: [ModManager]: tmpMod.name: EMAIL
+20:12:17: [ModManager]: tmpMod.name: GSM
+20:12:17: [ModManager]: tmpMod.name: TV
+20:12:17: [ModManager]: Number of modules found: 3
+20:12:17: [ModManager]: tmpMod.name: EMAIL
+20:12:17: [ModManager]: tmpMod.name: GSM
+20:12:17: [ModManager]: tmpMod.name: TV
+20:12:18: [ModManager]: Number of modules found: 3
+20:12:18: [ModManager]: tmpMod.name: EMAIL
+20:12:18: [ModManager]: tmpMod.name: GSM
+20:12:18: [ModManager]: tmpMod.name: TV
+20:12:19: [ModManager]: Number of modules found: 3
+20:12:19: [ModManager]: tmpMod.name: EMAIL
+20:12:19: [ModManager]: tmpMod.name: GSM
+20:12:19: [ModManager]: tmpMod.name: TV
+20:12:20: [ModManager]: Number of modules found: 3
+20:12:20: [ModManager]: tmpMod.name: EMAIL
+20:12:20: [ModManager]: tmpMod.name: GSM
+20:12:20: [ModManager]: tmpMod.name: TV
+20:12:21: [ModManager]: Number of modules found: 3
+20:12:21: [ModManager]: tmpMod.name: EMAIL
+20:12:21: [ModManager]: tmpMod.name: GSM
+20:12:21: [ModManager]: tmpMod.name: TV
+20:12:21: [ModManager]: Number of modules found: 3
+20:12:21: [ModManager]: tmpMod.name: EMAIL
+20:12:21: [ModManager]: tmpMod.name: GSM
+20:12:21: [ModManager]: tmpMod.name: TV
+20:12:22: [ModManager]: Number of modules found: 3
+20:12:22: [ModManager]: tmpMod.name: EMAIL
+20:12:22: [ModManager]: tmpMod.name: GSM
+20:12:22: [ModManager]: tmpMod.name: TV
+20:12:23: [ModManager]: Number of modules found: 3
+20:12:23: [ModManager]: tmpMod.name: EMAIL
+20:12:23: [ModManager]: tmpMod.name: GSM
+20:12:23: [ModManager]: tmpMod.name: TV
+20:12:24: [ModManager]: Number of modules found: 3
+20:12:24: [ModManager]: tmpMod.name: EMAIL
+20:12:24: [ModManager]: tmpMod.name: GSM
+20:12:24: [ModManager]: tmpMod.name: TV
+20:12:25: [ModManager]: Number of modules found: 3
+20:12:25: [ModManager]: tmpMod.name: EMAIL
+20:12:25: [ModManager]: tmpMod.name: GSM
+20:12:25: [ModManager]: tmpMod.name: TV
+20:12:26: [ModManager]: Number of modules found: 3
+20:12:26: [ModManager]: tmpMod.name: EMAIL
+20:12:26: [ModManager]: tmpMod.name: GSM
+20:12:26: [ModManager]: tmpMod.name: TV
+20:12:26: [ModManager]: Number of modules found: 3
+20:12:26: [ModManager]: tmpMod.name: EMAIL
+20:12:26: [ModManager]: tmpMod.name: GSM
+20:12:26: [ModManager]: tmpMod.name: TV
+20:12:27: [ModManager]: Number of modules found: 3
+20:12:27: [ModManager]: tmpMod.name: EMAIL
+20:12:27: [ModManager]: tmpMod.name: GSM
+20:12:27: [ModManager]: tmpMod.name: TV
+20:12:28: [ModManager]: Number of modules found: 3
+20:12:28: [ModManager]: tmpMod.name: EMAIL
+20:12:28: [ModManager]: tmpMod.name: GSM
+20:12:28: [ModManager]: tmpMod.name: TV
+20:12:29: [ModManager]: Number of modules found: 3
+20:12:29: [ModManager]: tmpMod.name: EMAIL
+20:12:29: [ModManager]: tmpMod.name: GSM
+20:12:29: [ModManager]: tmpMod.name: TV
+20:12:30: [ModManager]: Number of modules found: 3
+20:12:30: [ModManager]: tmpMod.name: EMAIL
+20:12:30: [ModManager]: tmpMod.name: GSM
+20:12:30: [ModManager]: tmpMod.name: TV
+20:12:31: [ModManager]: Number of modules found: 3
+20:12:31: [ModManager]: tmpMod.name: EMAIL
+20:12:31: [ModManager]: tmpMod.name: GSM
+20:12:31: [ModManager]: tmpMod.name: TV
+20:12:32: [ModManager]: Number of modules found: 3
+20:12:32: [ModManager]: tmpMod.name: EMAIL
+20:12:32: [ModManager]: tmpMod.name: GSM
+20:12:32: [ModManager]: tmpMod.name: TV
+20:12:33: [ModManager]: Number of modules found: 3
+20:12:33: [ModManager]: tmpMod.name: EMAIL
+20:12:33: [ModManager]: tmpMod.name: GSM
+20:12:33: [ModManager]: tmpMod.name: TV
+20:12:34: [ModManager]: Number of modules found: 3
+20:12:34: [ModManager]: tmpMod.name: EMAIL
+20:12:34: [ModManager]: tmpMod.name: GSM
+20:12:34: [ModManager]: tmpMod.name: TV
+20:12:35: [ModManager]: Number of modules found: 3
+20:12:35: [ModManager]: tmpMod.name: EMAIL
+20:12:35: [ModManager]: tmpMod.name: GSM
+20:12:35: [ModManager]: tmpMod.name: TV
+20:12:36: [ModManager]: Number of modules found: 3
+20:12:36: [ModManager]: tmpMod.name: EMAIL
+20:12:36: [ModManager]: tmpMod.name: GSM
+20:12:36: [ModManager]: tmpMod.name: TV
+20:12:37: [ModManager]: Number of modules found: 3
+20:12:37: [ModManager]: tmpMod.name: EMAIL
+20:12:37: [ModManager]: tmpMod.name: GSM
+20:12:37: [ModManager]: tmpMod.name: TV
+20:12:38: [ModManager]: Number of modules found: 3
+20:12:38: [ModManager]: tmpMod.name: EMAIL
+20:12:38: [ModManager]: tmpMod.name: GSM
+20:12:38: [ModManager]: tmpMod.name: TV
+20:12:40: [ModManager]: Number of modules found: 3
+20:12:40: [ModManager]: tmpMod.name: EMAIL
+20:12:40: [ModManager]: tmpMod.name: GSM
+20:12:40: [ModManager]: tmpMod.name: TV
+20:12:41: [ModManager]: Number of modules found: 3
+20:12:41: [ModManager]: tmpMod.name: EMAIL
+20:12:41: [ModManager]: tmpMod.name: GSM
+20:12:41: [ModManager]: tmpMod.name: TV
+20:12:42: [ModManager]: Number of modules found: 3
+20:12:42: [ModManager]: tmpMod.name: EMAIL
+20:12:42: [ModManager]: tmpMod.name: GSM
+20:12:42: [ModManager]: tmpMod.name: TV
+20:12:43: [ModManager]: Number of modules found: 3
+20:12:43: [ModManager]: tmpMod.name: EMAIL
+20:12:43: [ModManager]: tmpMod.name: GSM
+20:12:43: [ModManager]: tmpMod.name: TV
+20:12:44: [ModManager]: Number of modules found: 3
+20:12:44: [ModManager]: tmpMod.name: EMAIL
+20:12:44: [ModManager]: tmpMod.name: GSM
+20:12:44: [ModManager]: tmpMod.name: TV
+20:12:45: [ModManager]: Number of modules found: 3
+20:12:45: [ModManager]: tmpMod.name: EMAIL
+20:12:45: [ModManager]: tmpMod.name: GSM
+20:12:45: [ModManager]: tmpMod.name: TV
+20:12:46: [ModManager]: Number of modules found: 3
+20:12:46: [ModManager]: tmpMod.name: EMAIL
+20:12:46: [ModManager]: tmpMod.name: GSM
+20:12:46: [ModManager]: tmpMod.name: TV
+20:12:51: [ModManager]: Number of modules found: 3
+20:12:51: [ModManager]: tmpMod.name: EMAIL
+20:12:51: [ModManager]: tmpMod.name: GSM
+20:12:51: [ModManager]: tmpMod.name: TV
+20:12:52: [ModManager]: Number of modules found: 3
+20:12:52: [ModManager]: tmpMod.name: EMAIL
+20:12:52: [ModManager]: tmpMod.name: GSM
+20:12:52: [ModManager]: tmpMod.name: TV
+20:12:54: [ModManager]: Number of modules found: 3
+20:12:54: [ModManager]: tmpMod.name: EMAIL
+20:12:54: [ModManager]: tmpMod.name: GSM
+20:12:54: [ModManager]: tmpMod.name: TV
+20:13:59: Program started.
+20:13:59: [ModManager]: Number of modules found: 3
+20:13:59: [ModManager]: tmpMod.name: EMAIL
+20:13:59: [ModManager]: tmpMod.name: GSM
+20:13:59: [ModManager]: tmpMod.name: TV
+20:13:59: [ModManager]: Number of modules found: 3
+20:13:59: [ModManager]: tmpMod.name: EMAIL
+20:13:59: [ModManager]: tmpMod.name: GSM
+20:13:59: [ModManager]: tmpMod.name: TV
+20:14:00: [ModManager]: Number of modules found: 3
+20:14:00: [ModManager]: tmpMod.name: EMAIL
+20:14:00: [ModManager]: tmpMod.name: GSM
+20:14:00: [ModManager]: tmpMod.name: TV
+20:14:00: [ModManager]: Number of modules found: 3
+20:14:00: [ModManager]: tmpMod.name: EMAIL
+20:14:00: [ModManager]: tmpMod.name: GSM
+20:14:00: [ModManager]: tmpMod.name: TV
+20:14:00: [ModManager]: Number of modules found: 3
+20:14:00: [ModManager]: tmpMod.name: EMAIL
+20:14:00: [ModManager]: tmpMod.name: GSM
+20:14:00: [ModManager]: tmpMod.name: TV
+20:14:01: [ModManager]: Number of modules found: 3
+20:14:01: [ModManager]: tmpMod.name: EMAIL
+20:14:01: [ModManager]: tmpMod.name: GSM
+20:14:01: [ModManager]: tmpMod.name: TV
+20:14:01: [ModManager]: Number of modules found: 3
+20:14:01: [ModManager]: tmpMod.name: EMAIL
+20:14:01: [ModManager]: tmpMod.name: GSM
+20:14:01: [ModManager]: tmpMod.name: TV
+20:14:02: [ModManager]: Number of modules found: 3
+20:14:02: [ModManager]: tmpMod.name: EMAIL
+20:14:02: [ModManager]: tmpMod.name: GSM
+20:14:02: [ModManager]: tmpMod.name: TV
+20:14:02: [ModManager]: Number of modules found: 3
+20:14:02: [ModManager]: tmpMod.name: EMAIL
+20:14:02: [ModManager]: tmpMod.name: GSM
+20:14:02: [ModManager]: tmpMod.name: TV
+20:14:05: [ModManager]: Number of modules found: 3
+20:14:05: [ModManager]: tmpMod.name: EMAIL
+20:14:05: [ModManager]: tmpMod.name: GSM
+20:14:05: [ModManager]: tmpMod.name: TV
+20:14:05: [ModManager]: Number of modules found: 3
+20:14:05: [ModManager]: tmpMod.name: EMAIL
+20:14:05: [ModManager]: tmpMod.name: GSM
+20:14:05: [ModManager]: tmpMod.name: TV
+20:14:06: [ModManager]: Number of modules found: 3
+20:14:06: [ModManager]: tmpMod.name: EMAIL
+20:14:06: [ModManager]: tmpMod.name: GSM
+20:14:06: [ModManager]: tmpMod.name: TV
+20:14:09: Program started.
+20:14:09: [ModManager]: Number of modules found: 3
+20:14:09: [ModManager]: tmpMod.name: EMAIL
+20:14:09: [ModManager]: tmpMod.name: GSM
+20:14:09: [ModManager]: tmpMod.name: TV
+20:14:10: [ModManager]: Number of modules found: 3
+20:14:10: [ModManager]: tmpMod.name: EMAIL
+20:14:10: [ModManager]: tmpMod.name: GSM
+20:14:10: [ModManager]: tmpMod.name: TV
+20:14:10: [ModManager]: Number of modules found: 3
+20:14:10: [ModManager]: tmpMod.name: EMAIL
+20:14:10: [ModManager]: tmpMod.name: GSM
+20:14:10: [ModManager]: tmpMod.name: TV
+20:14:10: [ModManager]: Number of modules found: 3
+20:14:10: [ModManager]: tmpMod.name: EMAIL
+20:14:10: [ModManager]: tmpMod.name: GSM
+20:14:10: [ModManager]: tmpMod.name: TV
+20:14:11: [ModManager]: Number of modules found: 3
+20:14:11: [ModManager]: tmpMod.name: EMAIL
+20:14:11: [ModManager]: tmpMod.name: GSM
+20:14:11: [ModManager]: tmpMod.name: TV
+20:14:11: [ModManager]: Number of modules found: 3
+20:14:11: [ModManager]: tmpMod.name: EMAIL
+20:14:11: [ModManager]: tmpMod.name: GSM
+20:14:11: [ModManager]: tmpMod.name: TV
+20:14:12: [ModManager]: Number of modules found: 3
+20:14:12: [ModManager]: tmpMod.name: EMAIL
+20:14:12: [ModManager]: tmpMod.name: GSM
+20:14:12: [ModManager]: tmpMod.name: TV
+20:14:12: [ModManager]: Number of modules found: 3
+20:14:12: [ModManager]: tmpMod.name: EMAIL
+20:14:12: [ModManager]: tmpMod.name: GSM
+20:14:12: [ModManager]: tmpMod.name: TV
+20:14:13: [ModManager]: Number of modules found: 3
+20:14:16: [ModManager]: tmpMod.name: EMAIL
+20:14:16: [ModManager]: tmpMod.name: GSM
+20:14:16: [ModManager]: tmpMod.name: TV
+20:14:16: [ModManager]: Number of modules found: 3
+20:14:16: [ModManager]: tmpMod.name: EMAIL
+20:14:16: [ModManager]: tmpMod.name: GSM
+20:14:16: [ModManager]: tmpMod.name: TV
+20:14:31: Program started.
+20:14:31: [ModManager]: Number of modules found: 3
+20:14:31: [ModManager]: tmpMod.name: EMAIL
+20:14:31: [ModManager]: tmpMod.name: GSM
+20:14:31: [ModManager]: tmpMod.name: TV
+20:14:32: [ModManager]: Number of modules found: 3
+20:14:32: [ModManager]: tmpMod.name: EMAIL
+20:14:32: [ModManager]: tmpMod.name: GSM
+20:14:32: [ModManager]: tmpMod.name: TV
+20:14:32: [ModManager]: Number of modules found: 3
+20:14:32: [ModManager]: tmpMod.name: EMAIL
+20:14:32: [ModManager]: tmpMod.name: GSM
+20:14:32: [ModManager]: tmpMod.name: TV
+20:14:32: [ModManager]: Number of modules found: 3
+20:14:32: [ModManager]: tmpMod.name: EMAIL
+20:14:32: [ModManager]: tmpMod.name: GSM
+20:14:32: [ModManager]: tmpMod.name: TV
+20:14:33: [ModManager]: Number of modules found: 3
+20:14:33: [ModManager]: tmpMod.name: EMAIL
+20:14:33: [ModManager]: tmpMod.name: GSM
+20:14:33: [ModManager]: tmpMod.name: TV
+20:14:33: [ModManager]: Number of modules found: 3
+20:14:33: [ModManager]: tmpMod.name: EMAIL
+20:14:33: [ModManager]: tmpMod.name: GSM
+20:14:33: [ModManager]: tmpMod.name: TV
+20:14:34: [ModManager]: Number of modules found: 3
+20:14:34: [ModManager]: tmpMod.name: EMAIL
+20:14:34: [ModManager]: tmpMod.name: GSM
+20:14:34: [ModManager]: tmpMod.name: TV
+20:14:34: [ModManager]: Number of modules found: 3
+20:14:34: [ModManager]: tmpMod.name: EMAIL
+20:14:34: [ModManager]: tmpMod.name: GSM
+20:14:34: [ModManager]: tmpMod.name: TV
+20:14:35: [ModManager]: Number of modules found: 3
+20:14:35: [ModManager]: tmpMod.name: EMAIL
+20:14:35: [ModManager]: tmpMod.name: GSM
+20:14:35: [ModManager]: tmpMod.name: TV
+20:14:35: [ModManager]: Number of modules found: 3
+20:14:35: [ModManager]: tmpMod.name: EMAIL
+20:14:35: [ModManager]: tmpMod.name: GSM
+20:14:35: [ModManager]: tmpMod.name: TV
+20:14:36: [ModManager]: Number of modules found: 3
+20:14:36: [ModManager]: tmpMod.name: EMAIL
+20:14:36: [ModManager]: tmpMod.name: GSM
+20:14:36: [ModManager]: tmpMod.name: TV
+20:14:36: [ModManager]: Number of modules found: 3
+20:14:36: [ModManager]: tmpMod.name: EMAIL
+20:14:36: [ModManager]: tmpMod.name: GSM
+20:14:36: [ModManager]: tmpMod.name: TV
+20:14:36: [ModManager]: Number of modules found: 3
+20:14:36: [ModManager]: tmpMod.name: EMAIL
+20:14:36: [ModManager]: tmpMod.name: GSM
+20:14:36: [ModManager]: tmpMod.name: TV
+20:14:37: [ModManager]: Number of modules found: 3
+20:14:37: [ModManager]: tmpMod.name: EMAIL
+20:14:37: [ModManager]: tmpMod.name: GSM
+20:14:37: [ModManager]: tmpMod.name: TV
+20:14:38: [ModManager]: Number of modules found: 3
+20:14:38: [ModManager]: tmpMod.name: EMAIL
+20:14:38: [ModManager]: tmpMod.name: GSM
+20:14:38: [ModManager]: tmpMod.name: TV
+20:14:38: [ModManager]: Number of modules found: 3
+20:14:38: [ModManager]: tmpMod.name: EMAIL
+20:14:38: [ModManager]: tmpMod.name: GSM
+20:14:38: [ModManager]: tmpMod.name: TV
+20:14:39: [ModManager]: Number of modules found: 3
+20:14:39: [ModManager]: tmpMod.name: EMAIL
+20:14:39: [ModManager]: tmpMod.name: GSM
+20:14:39: [ModManager]: tmpMod.name: TV
+20:14:39: [ModManager]: Number of modules found: 3
+20:14:39: [ModManager]: tmpMod.name: EMAIL
+20:14:39: [ModManager]: tmpMod.name: GSM
+20:14:39: [ModManager]: tmpMod.name: TV
+20:14:40: [ModManager]: Number of modules found: 3
+20:14:40: [ModManager]: tmpMod.name: EMAIL
+20:14:40: [ModManager]: tmpMod.name: GSM
+20:14:40: [ModManager]: tmpMod.name: TV
+20:15:24: Program started.
+20:15:25: [ModManager]: Number of modules found: 3
+20:15:25: [ModManager]: tmpMod.name: EMAIL
+20:15:25: [ModManager]: tmpMod.name: GSM
+20:15:25: [ModManager]: tmpMod.name: TV
+20:15:25: [ModManager]: Number of modules found: 3
+20:15:25: [ModManager]: tmpMod.name: EMAIL
+20:15:25: [ModManager]: tmpMod.name: GSM
+20:15:25: [ModManager]: tmpMod.name: TV
+20:15:25: [ModManager]: Number of modules found: 3
+20:15:25: [ModManager]: tmpMod.name: EMAIL
+20:15:25: [ModManager]: tmpMod.name: GSM
+20:15:25: [ModManager]: tmpMod.name: TV
+20:15:26: [ModManager]: Number of modules found: 3
+20:15:26: [ModManager]: tmpMod.name: EMAIL
+20:15:26: [ModManager]: tmpMod.name: GSM
+20:15:26: [ModManager]: tmpMod.name: TV
+20:15:26: [ModManager]: Number of modules found: 3
+20:15:26: [ModManager]: tmpMod.name: EMAIL
+20:15:26: [ModManager]: tmpMod.name: GSM
+20:15:26: [ModManager]: tmpMod.name: TV
+20:15:27: [ModManager]: Number of modules found: 3
+20:15:27: [ModManager]: tmpMod.name: EMAIL
+20:15:27: [ModManager]: tmpMod.name: GSM
+20:15:27: [ModManager]: tmpMod.name: TV
+20:15:27: [ModManager]: Number of modules found: 3
+20:15:27: [ModManager]: tmpMod.name: EMAIL
+20:15:27: [ModManager]: tmpMod.name: GSM
+20:15:27: [ModManager]: tmpMod.name: TV
+20:15:28: [ModManager]: Number of modules found: 3
+20:15:28: [ModManager]: tmpMod.name: EMAIL
+20:15:28: [ModManager]: tmpMod.name: GSM
+20:15:28: [ModManager]: tmpMod.name: TV
+20:15:28: [ModManager]: Number of modules found: 3
+20:15:28: [ModManager]: tmpMod.name: EMAIL
+20:15:28: [ModManager]: tmpMod.name: GSM
+20:15:28: [ModManager]: tmpMod.name: TV
+20:15:28: [ModManager]: Number of modules found: 3
+20:15:28: [ModManager]: tmpMod.name: EMAIL
+20:15:28: [ModManager]: tmpMod.name: GSM
+20:15:28: [ModManager]: tmpMod.name: TV
+20:15:29: [ModManager]: Number of modules found: 3
+20:15:29: [ModManager]: tmpMod.name: EMAIL
+20:15:29: [ModManager]: tmpMod.name: GSM
+20:15:29: [ModManager]: tmpMod.name: TV
+20:17:23: Program started.
+20:17:23: [ModManager]: Number of modules found: 3
+20:17:23: [ModManager]: tmpMod.name: EMAIL
+20:17:23: [ModManager]: tmpMod.name: GSM
+20:17:23: [ModManager]: tmpMod.name: TV
+20:17:23: [KnxDB]: [DB] Connected to database.
+20:17:23: [Console]: Staring console capture.
+20:17:23: [KnxGW]: Send time on bus enabled.
+20:17:52: Program started.
+20:17:52: [ModManager]: Number of modules found: 3
+20:17:52: [ModManager]: tmpMod.name: EMAIL
+20:17:52: [ModManager]: tmpMod.name: GSM
+20:17:52: [ModManager]: tmpMod.name: TV
+20:17:52: [KnxDB]: [DB] Connected to database.
+20:17:54: [Console]: Staring console capture.
+20:17:54: [KnxGW]: Send time on bus enabled.
+20:53:04: Program started.
+20:53:04: [ModManager]: Number of modules found: 3
+20:53:04: [ModManager]: tmpMod.name: EMAIL
+20:53:04: [ModManager]: tmpMod.name: GSM
+20:53:04: [ModManager]: tmpMod.name: TV
+20:53:04: [KnxDB]: [DB] Connected to database.
+20:53:06: [KnxGW]: Send time on bus enabled.
+20:53:06: [Console]: Staring console capture.
+20:55:34: Program started.
+20:55:35: [ModManager]: Number of modules found: 3
+20:55:35: [ModManager]: tmpMod.name: EMAIL
+20:55:35: [ModManager]: tmpMod.name: GSM
+20:55:35: [ModManager]: tmpMod.name: TV
+20:55:35: [KnxDB]: [DB] Connected to database.
+20:55:35: [KnxGW]: Send time on bus enabled.
+20:55:35: [Console]: Staring console capture.
+21:20:26: Program started.
+21:20:26: [ModManager]: Number of modules found: 3
+21:20:26: [ModManager]: tmpMod.name: EMAIL
+21:20:26: [ModManager]: tmpMod.name: GSM
+21:20:26: [ModManager]: tmpMod.name: TV
+21:20:26: [KnxDB]: [DB] Connected to database.
+21:20:26: [Console]: Staring console capture.
+21:20:27: [KnxGW]: Send time on bus enabled.
+21:20:34: [Console]: Quit from user
+21:20:35: [KnxGW]: Exiting
+21:21:40: Program started.
+21:21:41: [ModManager]: Number of modules found: 3
+21:21:41: [ModManager]: tmpMod.name: EMAIL
+21:21:41: [ModManager]: tmpMod.name: GSM
+21:21:41: [ModManager]: tmpMod.name: TV
+21:21:41: [KnxDB]: [DB] Connected to database.
+21:21:41: [Console]: Staring console capture.
+21:41:13: Program started.
+21:41:13: [ModManager]: Number of modules found: 3
+21:41:13: [ModManager]: tmpMod.name: EMAIL
+21:41:13: [ModManager]: tmpMod.name: GSM
+21:41:13: [ModManager]: tmpMod.name: TV
+21:41:13: [KnxDB]: [DB] Connected to database.
+21:41:13: [Console]: Staring console capture.
+21:41:13: [KnxGW]: Send time on bus enabled.
+21:59:40: Program started.
+21:59:41: [ModManager]: Number of modules found: 3
+21:59:41: [ModManager]: tmpMod.name: EMAIL
+21:59:41: [ModManager]: tmpMod.name: GSM
+21:59:41: [ModManager]: tmpMod.name: TV
+21:59:41: [KnxDB]: [DB] Connected to database.
+21:59:41: [Console]: Staring console capture.
+21:59:41: [KnxGW]: Send time on bus enabled.
+21:59:41: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:41: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+21:59:42: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:01: Program started.
+22:02:01: [ModManager]: Number of modules found: 3
+22:02:01: [ModManager]: tmpMod.name: EMAIL
+22:02:01: [ModManager]: tmpMod.name: GSM
+22:02:01: [ModManager]: tmpMod.name: TV
+22:02:01: [KnxDB]: [DB] Connected to database.
+22:02:01: [Console]: Staring console capture.
+22:02:01: [KnxGW]: Send time on bus enabled.
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:02:02: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:03:00: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:03:00: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:03:06: [KnxDB]: [KnxDB::CheckIfExists] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':parm' at line 1 QMYSQL: Unable to execute query
+22:03:06: [KnxDB]: [::DbInsertValue] query error.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':pm,:pn,:sr,:dt,:ts)' at line 1 QMYSQL: Unable to execute query
+22:03:28: Program started.
+22:03:28: [ModManager]: Number of modules found: 3
+22:03:28: [ModManager]: tmpMod.name: EMAIL
+22:03:28: [ModManager]: tmpMod.name: GSM
+22:03:28: [ModManager]: tmpMod.name: TV
+22:03:28: [KnxDB]: [DB] Connected to database.
+22:03:30: [Console]: Staring console capture.
+22:03:30: [KnxGW]: Send time on bus enabled.
+22:07:24: [Console]: Quit from user
+22:07:25: [KnxGW]: Exiting
+22:07:46: Program started.
+22:07:46: [ModManager]: Number of modules found: 3
+22:07:46: [ModManager]: tmpMod.name: EMAIL
+22:07:46: [ModManager]: tmpMod.name: GSM
+22:07:46: [ModManager]: tmpMod.name: TV
+22:07:46: [KnxDB]: [DB] Connected to database.
+22:07:46: [Console]: Staring console capture.
+22:07:46: [KnxGW]: Send time on bus enabled.
+22:32:08: [Console]: Quit from user
+22:32:09: [KnxGW]: Exiting
+22:38:11: Program started.
+22:38:11: [ModManager]: Number of modules found: 3
+22:38:11: [ModManager]: tmpMod.name: EMAIL
+22:38:11: [ModManager]: tmpMod.name: GSM
+22:38:11: [ModManager]: tmpMod.name: TV
+22:38:11: [KnxDB]: [DB] Connected to database.
+22:38:12: [Console]: Staring console capture.
+22:38:12: [KnxGW]: Send time on bus enabled.
+23:23:10: [Console]: Quit from user
+23:23:11: [KnxGW]: Exiting
+23:23:25: Program started.
+23:23:25: [ModManager]: Number of modules found: 3
+23:23:25: [ModManager]: tmpMod.name: EMAIL
+23:23:25: [ModManager]: tmpMod.name: GSM
+23:23:25: [ModManager]: tmpMod.name: TV
+23:23:25: [ModManager]: Number of params found: 4
+23:23:25: [ModManager]: mod_param: email.to:string
+23:23:25: [ModManager]: mod_param: email.subj:string
+23:23:25: [ModManager]: mod_param: email.body:string
+23:23:25: [ModManager]: mod_param: email.att:string
+23:23:25: [ModManager]: Number of params found: 2
+23:23:25: [ModManager]: mod_param: gsm.tel:string
+23:23:25: [ModManager]: mod_param: gsm.text:string
+23:23:25: [ModManager]: Number of params found: 5
+23:23:25: [ModManager]: mod_param: tv.id:string
+23:23:25: [ModManager]: mod_param: tv.cmd:string
+23:23:25: [ModManager]: mod_param: tv.data:string
+23:23:25: [ModManager]: mod_param: tv.predelay:int
+23:23:25: [ModManager]: mod_param: tv.postdelay:int
+23:23:25: [KnxDB]: [DB] Connected to database.
+23:23:25: [Console]: Staring console capture.
+23:23:25: [KnxGW]: Send time on bus enabled.
+23:23:38: [Console]: Quit from user
+23:23:39: [KnxGW]: Exiting
+23:37:43: Program started.
+23:37:43: [ModManager]: Number of modules found: 3
+23:37:43: [ModManager]: tmpMod.name: EMAIL
+23:37:43: [ModManager]: tmpMod.name: GSM
+23:37:43: [ModManager]: tmpMod.name: TV
+23:37:43: [ModManager]: Number of params found: 4
+23:37:43: [ModManager]: mod_param: email.to:string
+23:37:43: [ModManager]: mod_param: email.subj:string
+23:37:43: [ModManager]: mod_param: email.body:string
+23:37:43: [ModManager]: mod_param: email.att:string
+23:37:43: [ModManager]: Number of params found: 2
+23:37:43: [ModManager]: mod_param: gsm.tel:string
+23:37:43: [ModManager]: mod_param: gsm.text:string
+23:37:43: [ModManager]: Number of params found: 5
+23:37:43: [ModManager]: mod_param: tv.id:string
+23:37:43: [ModManager]: mod_param: tv.cmd:string
+23:37:43: [ModManager]: mod_param: tv.data:string
+23:37:43: [ModManager]: mod_param: tv.predelay:int
+23:37:43: [ModManager]: mod_param: tv.postdelay:int
+23:37:43: [KnxDB]: [DB] Connected to database.
+23:37:44: [Console]: Staring console capture.
+23:37:44: [KnxGW]: Send time on bus enabled.
+23:40:47: Program started.
+23:40:47: [ModManager]: Number of modules found: 3
+23:40:47: [ModManager]: tmpMod.name: EMAIL
+23:40:47: [ModManager]: tmpMod.name: GSM
+23:40:47: [ModManager]: tmpMod.name: TV
+23:40:47: [ModManager]: Number of params found: 4
+23:40:47: [ModManager]: mod_param: email.to:string
+23:40:47: [ModManager]: mod_param: email.subj:string
+23:40:47: [ModManager]: mod_param: email.body:string
+23:40:47: [ModManager]: mod_param: email.att:string
+23:40:47: [ModManager]: Number of params found: 2
+23:40:47: [ModManager]: mod_param: gsm.tel:string
+23:40:47: [ModManager]: mod_param: gsm.text:string
+23:40:47: [ModManager]: Number of params found: 5
+23:40:47: [ModManager]: mod_param: tv.id:string
+23:40:47: [ModManager]: mod_param: tv.cmd:string
+23:40:47: [ModManager]: mod_param: tv.data:string
+23:40:47: [ModManager]: mod_param: tv.predelay:int
+23:40:47: [ModManager]: mod_param: tv.postdelay:int
+23:40:47: [KnxDB]: [DB] Connected to database.
+23:40:49: [Console]: Staring console capture.
+23:40:50: [KnxGW]: Send time on bus enabled.
+23:42:22: Program started.
+23:42:22: [ModManager]: Number of modules found: 3
+23:42:22: [ModManager]: tmpMod.name: EMAIL
+23:42:22: [ModManager]: tmpMod.name: GSM
+23:42:22: [ModManager]: tmpMod.name: TV
+23:42:22: [ModManager]: Number of params found: 4
+23:42:22: [ModManager]: mod_param: email.to:string
+23:42:22: [ModManager]: mod_param: email.subj:string
+23:42:22: [ModManager]: mod_param: email.body:string
+23:42:22: [ModManager]: mod_param: email.att:string
+23:42:22: [ModManager]: Number of params found: 2
+23:42:22: [ModManager]: mod_param: gsm.tel:string
+23:42:22: [ModManager]: mod_param: gsm.text:string
+23:42:22: [ModManager]: Number of params found: 5
+23:42:22: [ModManager]: mod_param: tv.id:string
+23:42:22: [ModManager]: mod_param: tv.cmd:string
+23:42:22: [ModManager]: mod_param: tv.data:string
+23:42:22: [ModManager]: mod_param: tv.predelay:int
+23:42:22: [ModManager]: mod_param: tv.postdelay:int
+23:42:22: [KnxDB]: [DB] Connected to database.
+23:42:24: [Console]: Staring console capture.
+23:42:24: [KnxGW]: Send time on bus enabled.
+23:43:25: [Console]: Quit from user
+23:43:26: [KnxGW]: Exiting
+23:43:46: Program started.
+23:43:47: [ModManager]: Number of modules found: 3
+23:43:47: [ModManager]: tmpMod.name: EMAIL
+23:43:47: [ModManager]: tmpMod.name: GSM
+23:43:47: [ModManager]: tmpMod.name: TV
+23:43:47: [ModManager]: Number of params found: 4
+23:43:47: [ModManager]: mod_param: email.to:string
+23:43:47: [ModManager]: mod_param: email.subj:string
+23:43:47: [ModManager]: mod_param: email.body:string
+23:43:47: [ModManager]: mod_param: email.att:string
+23:43:47: [ModManager]: Number of params found: 2
+23:43:47: [ModManager]: mod_param: gsm.tel:string
+23:43:47: [ModManager]: mod_param: gsm.text:string
+23:43:47: [ModManager]: Number of params found: 5
+23:43:47: [ModManager]: mod_param: tv.id:string
+23:43:47: [ModManager]: mod_param: tv.cmd:string
+23:43:47: [ModManager]: mod_param: tv.data:string
+23:43:47: [ModManager]: mod_param: tv.predelay:int
+23:43:47: [ModManager]: mod_param: tv.postdelay:int
+23:43:47: [KnxDB]: [DB] Connected to database.
+23:43:47: [Console]: Staring console capture.
+23:43:47: [KnxGW]: Send time on bus enabled.
+23:45:59: Program started.
+23:45:59: [ModManager]: Number of modules found: 3
+23:45:59: [ModManager]: tmpMod.name: EMAIL
+23:45:59: [ModManager]: tmpMod.name: GSM
+23:45:59: [ModManager]: tmpMod.name: TV
+23:45:59: [ModManager]: Number of params found: 4
+23:45:59: [ModManager]: mod_param: email.to:string
+23:45:59: [ModManager]: mod_param: email.subj:string
+23:45:59: [ModManager]: mod_param: email.body:string
+23:45:59: [ModManager]: mod_param: email.att:string
+23:45:59: [ModManager]: Number of params found: 2
+23:45:59: [ModManager]: mod_param: gsm.tel:string
+23:45:59: [ModManager]: mod_param: gsm.text:string
+23:45:59: [ModManager]: Number of params found: 5
+23:45:59: [ModManager]: mod_param: tv.id:string
+23:45:59: [ModManager]: mod_param: tv.cmd:string
+23:45:59: [ModManager]: mod_param: tv.data:string
+23:45:59: [ModManager]: mod_param: tv.predelay:int
+23:45:59: [ModManager]: mod_param: tv.postdelay:int
+23:45:59: [KnxDB]: [DB] Connected to database.
+23:45:59: [Console]: Staring console capture.
+23:45:59: [KnxGW]: Send time on bus enabled.
+23:46:56: [Console]: Quit from user
+23:46:57: [KnxGW]: Exiting
+23:47:55: Program started.
+23:47:55: [ModManager]: Number of modules found: 3
+23:47:55: [ModManager]: tmpMod.name: EMAIL
+23:47:55: [ModManager]: tmpMod.name: GSM
+23:47:55: [ModManager]: tmpMod.name: TV
+23:47:55: [ModManager]: Number of params found: 4
+23:47:55: [ModManager]: mod_param: email.to:string
+23:47:55: [ModManager]: mod_param: email.subj:string
+23:47:55: [ModManager]: mod_param: email.body:string
+23:47:55: [ModManager]: mod_param: email.att:string
+23:47:55: [ModManager]: Number of params found: 2
+23:47:55: [ModManager]: mod_param: gsm.tel:string
+23:47:55: [ModManager]: mod_param: gsm.text:string
+23:47:55: [ModManager]: Number of params found: 5
+23:47:55: [ModManager]: mod_param: tv.id:string
+23:47:55: [ModManager]: mod_param: tv.cmd:string
+23:47:55: [ModManager]: mod_param: tv.data:string
+23:47:55: [ModManager]: mod_param: tv.predelay:int
+23:47:55: [ModManager]: mod_param: tv.postdelay:int
+23:47:55: [KnxDB]: [DB] Connected to database.
+23:47:55: [Console]: Staring console capture.
+23:47:55: [KnxGW]: Send time on bus enabled.
+23:52:06: [Console]: Quit from user
+23:52:07: [KnxGW]: Exiting
+23:52:17: Program started.
+23:52:17: [ModManager]: Number of modules found: 3
+23:52:17: [ModManager]: tmpMod.name: EMAIL
+23:52:17: [ModManager]: tmpMod.name: GSM
+23:52:17: [ModManager]: tmpMod.name: TV
+23:52:17: [ModManager]: Number of params found: 4
+23:52:17: [ModManager]: mod_param: email.to:string
+23:52:17: [ModManager]: mod_param: email.subj:string
+23:52:17: [ModManager]: mod_param: email.body:string
+23:52:17: [ModManager]: mod_param: email.att:string
+23:52:17: [ModManager]: Number of params found: 2
+23:52:17: [ModManager]: mod_param: gsm.tel:string
+23:52:17: [ModManager]: mod_param: gsm.text:string
+23:52:17: [ModManager]: Number of params found: 5
+23:52:17: [ModManager]: mod_param: tv.id:string
+23:52:17: [ModManager]: mod_param: tv.cmd:string
+23:52:17: [ModManager]: mod_param: tv.data:string
+23:52:17: [ModManager]: mod_param: tv.predelay:int
+23:52:17: [ModManager]: mod_param: tv.postdelay:int
+23:52:17: [KnxDB]: [DB] Connected to database.
+23:52:17: [Console]: Staring console capture.
+23:52:17: [KnxGW]: Send time on bus enabled.
+23:53:14: [Console]: Quit from user
+23:53:15: [KnxGW]: Exiting
+23:53:22: Program started.
+23:53:22: [ModManager]: Number of modules found: 3
+23:53:22: [ModManager]: tmpMod.name: EMAIL
+23:53:22: [ModManager]: tmpMod.name: GSM
+23:53:22: [ModManager]: tmpMod.name: TV
+23:53:22: [ModManager]: Number of params found: 4
+23:53:22: [ModManager]: mod_param: email.to:string
+23:53:22: [ModManager]: mod_param: email.subj:string
+23:53:22: [ModManager]: mod_param: email.body:string
+23:53:22: [ModManager]: mod_param: email.att:string
+23:53:22: [ModManager]: Number of params found: 2
+23:53:22: [ModManager]: mod_param: gsm.tel:string
+23:53:22: [ModManager]: mod_param: gsm.text:string
+23:53:22: [ModManager]: Number of params found: 5
+23:53:22: [ModManager]: mod_param: tv.id:string
+23:53:22: [ModManager]: mod_param: tv.cmd:string
+23:53:22: [ModManager]: mod_param: tv.data:string
+23:53:23: [ModManager]: mod_param: tv.predelay:int
+23:53:23: [ModManager]: mod_param: tv.postdelay:int
+23:53:23: [KnxDB]: [DB] Connected to database.
+23:53:23: [Console]: Staring console capture.
+23:53:23: [KnxGW]: Send time on bus enabled.
+23:53:52: [Console]: Quit from user
+23:53:53: [KnxGW]: Exiting
+23:54:01: Program started.
+23:54:01: [ModManager]: Number of modules found: 3
+23:54:01: [ModManager]: tmpMod.name: EMAIL
+23:54:01: [ModManager]: tmpMod.name: GSM
+23:54:01: [ModManager]: tmpMod.name: TV
+23:54:01: [ModManager]: Number of params found: 4
+23:54:01: [ModManager]: mod_param: email.to:string
+23:54:01: [ModManager]: mod_param: email.subj:string
+23:54:01: [ModManager]: mod_param: email.body:string
+23:54:01: [ModManager]: mod_param: email.att:string
+23:54:01: [ModManager]: Number of params found: 2
+23:54:01: [ModManager]: mod_param: gsm.tel:string
+23:54:01: [ModManager]: mod_param: gsm.text:string
+23:54:01: [ModManager]: Number of params found: 5
+23:54:01: [ModManager]: mod_param: tv.id:string
+23:54:01: [ModManager]: mod_param: tv.cmd:string
+23:54:01: [ModManager]: mod_param: tv.data:string
+23:54:01: [ModManager]: mod_param: tv.predelay:int
+23:54:01: [ModManager]: mod_param: tv.postdelay:int
+23:54:01: [KnxDB]: [DB] Connected to database.
+23:54:01: [Console]: Staring console capture.
+23:54:01: [KnxGW]: Send time on bus enabled.
+23:54:48: [Console]: Quit from user
+23:54:49: [KnxGW]: Exiting
+23:55:02: Program started.
+23:55:02: [ModManager]: Number of modules found: 3
+23:55:02: [ModManager]: tmpMod.name: EMAIL
+23:55:02: [ModManager]: tmpMod.name: GSM
+23:55:02: [ModManager]: tmpMod.name: TV
+23:55:02: [ModManager]: Number of params found: 4
+23:55:02: [ModManager]: mod_param: email.to:string
+23:55:02: [ModManager]: mod_param: email.subj:string
+23:55:02: [ModManager]: mod_param: email.body:string
+23:55:02: [ModManager]: mod_param: email.att:string
+23:55:02: [ModManager]: Number of params found: 2
+23:55:02: [ModManager]: mod_param: gsm.tel:string
+23:55:02: [ModManager]: mod_param: gsm.text:string
+23:55:02: [ModManager]: Number of params found: 5
+23:55:02: [ModManager]: mod_param: tv.id:string
+23:55:02: [ModManager]: mod_param: tv.cmd:string
+23:55:02: [ModManager]: mod_param: tv.data:string
+23:55:02: [ModManager]: mod_param: tv.predelay:int
+23:55:02: [ModManager]: mod_param: tv.postdelay:int
+23:55:02: [KnxDB]: [DB] Connected to database.
+23:55:02: [Console]: Staring console capture.
+23:55:02: [KnxGW]: Send time on bus enabled.

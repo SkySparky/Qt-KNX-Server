@@ -1,0 +1,9 @@
+Ðבס 9. Ìבס 21:31:42 2012 : [GidtModule] : Could not find ini file!
+Ðבס 9. Ìבס 21:31:42 2012 : [GidtModule] : m_inboxPolling in ini file is invalid.
+Ðבס 9. Ìבס 21:31:42 2012 : [GidtModule] : m_hb_period in ini file is invalid.
+Ðבס 9. Ìבס 21:31:42 2012 : [GidtModule] : [PdxAlarm::LoadAlarmValues] Could not open file: ./pdxalarm.ini
+Ðבס 9. Ìבס 21:40:08 2012 : [GidtModule] : [GidtModule::Enabled]
+Ðבס 9. Ìבס 21:41:17 2012 : [GidtModule] : [GidtModule::Enabled]
+Ðבס 9. Ìבס 21:43:25 2012 : [GidtModule] : [GidtModule::Enabled]
+Ðבס 9. Ìבס 21:46:20 2012 : [GidtModule] : [GidtModule::Enabled]
+Ðבס 9. Ìבס 21:47:09 2012 : [GidtModule] : [GidtModule::Enabled]

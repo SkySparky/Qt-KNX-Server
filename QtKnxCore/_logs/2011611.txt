@@ -1,0 +1,109 @@
+16:12:49: Program started.
+16:12:49: [KnxGW]: Send time on bus enabled.
+16:12:49: [Console]: Staring console capture.
+16:12:49: [KnxDB]: 1/0/2,00
+16:12:50: [ModManager]: Number of modules found: 3
+16:12:50: [ModManager]: tmpMod.name: EMAIL
+16:12:50: [ModManager]: tmpMod.name: GSM
+16:12:50: [ModManager]: tmpMod.name: TV
+16:12:50: [ModManager]: Number of params found: 4
+16:12:50: [ModManager]: mod_param: email.to:string
+16:12:50: [ModManager]: mod_param: email.subj:string
+16:12:50: [ModManager]: mod_param: email.body:string
+16:12:50: [ModManager]: mod_param: email.att:string
+16:12:50: [ModManager]: Number of params found: 2
+16:12:50: [ModManager]: mod_param: gsm.tel:string
+16:12:50: [ModManager]: mod_param: gsm.text:string
+16:12:50: [ModManager]: Number of params found: 5
+16:12:50: [ModManager]: mod_param: tv.id:string
+16:12:50: [ModManager]: mod_param: tv.cmd:string
+16:12:50: [ModManager]: mod_param: tv.data:string
+16:12:50: [ModManager]: mod_param: tv.predelay:int
+16:12:50: [ModManager]: mod_param: tv.postdelay:int
+16:12:50: [KnxDB]: 1/0/5,00
+16:12:50: [KnxDB]: 1/0/5,00
+16:12:50: [KnxDB]: 1/0/6,00
+16:12:50: [KnxDB]: 1/0/7,00
+16:12:50: [KnxDB]: 1/0/8,00
+16:12:50: [KnxDB]: 1/0/9,00
+16:12:50: [KnxDB]: 1/0/8,00
+16:12:50: [KnxDB]: 1/0/9,00
+16:12:50: [KnxDB]: 1/0/10,00
+16:12:50: [KnxDB]: 1/0/9,00
+16:12:50: [KnxDB]: 1/0/11,00
+16:12:50: [KnxDB]: 1/0/12,00
+16:12:50: [KnxDB]: 1/0/13,00
+16:12:50: [KnxDB]: 1/0/14,00
+16:12:51: [KnxDB]: 1/0/15,00
+16:12:51: [KnxDB]: 1/0/16,00
+16:12:51: [KnxDB]: 1/0/17,00
+16:12:51: [KnxDB]: 1/0/18,00
+16:12:51: [KnxDB]: 1/1/2,00 00
+16:12:51: [KnxDB]: 1/1/13,00 00
+16:13:00: [KnxDB]: 8/2/2,00 FF C0 00 00
+18:24:52: Program started.
+18:24:52: [KnxGW]: Send time on bus enabled.
+18:24:52: [Console]: Staring console capture.
+18:24:52: [KnxDB]: 1/0/2,00
+18:24:52: [ModManager]: Number of modules found: 3
+18:24:52: [ModManager]: tmpMod.name: EMAIL
+18:24:52: [ModManager]: tmpMod.name: GSM
+18:24:52: [ModManager]: tmpMod.name: TV
+18:24:52: [ModManager]: Number of params found: 4
+18:24:52: [ModManager]: mod_param: email.to:string
+18:24:52: [ModManager]: mod_param: email.subj:string
+18:24:52: [ModManager]: mod_param: email.body:string
+18:24:52: [ModManager]: mod_param: email.att:string
+18:24:52: [ModManager]: Number of params found: 2
+18:24:52: [ModManager]: mod_param: gsm.tel:string
+18:24:52: [ModManager]: mod_param: gsm.text:string
+18:24:52: [ModManager]: Number of params found: 5
+18:24:52: [ModManager]: mod_param: tv.id:string
+18:24:52: [ModManager]: mod_param: tv.cmd:string
+18:24:52: [ModManager]: mod_param: tv.data:string
+18:24:52: [ModManager]: mod_param: tv.predelay:int
+18:24:52: [ModManager]: mod_param: tv.postdelay:int
+18:24:52: [KnxDB]: 1/0/5,00
+18:24:52: [KnxDB]: 1/0/7,00
+18:24:52: [KnxDB]: 1/0/6,00
+18:24:52: [KnxDB]: 1/0/8,00
+18:24:52: [KnxDB]: 1/0/9,00
+18:24:52: [KnxDB]: 1/0/10,00
+18:24:52: [KnxDB]: 1/0/9,00
+18:24:52: [KnxDB]: 1/0/11,01
+18:24:53: [KnxDB]: 1/0/12,00
+18:24:53: [KnxDB]: 1/0/12,00
+18:24:53: [KnxDB]: 1/0/13,00
+18:24:53: [KnxDB]: 1/0/13,00
+18:24:53: [KnxDB]: 1/0/14,00
+18:24:53: [KnxDB]: 1/0/15,00
+18:24:53: [KnxDB]: 1/0/16,00
+18:24:53: [KnxDB]: 1/0/17,00
+18:24:53: [KnxDB]: 1/0/18,00
+18:24:53: [KnxDB]: 1/1/2,00 00
+18:24:53: [KnxDB]: 1/1/13,00 00
+18:25:11: [KnxDB]: 8/2/2,00 FF C0 04 00
+18:27:03: [KnxDB]: 1/0/18,01
+18:27:21: [KnxDB]: 8/2/2,00 FF C0 04 00
+18:27:30: [KnxDB]: 0/0/18,00
+18:27:30: [KnxDB]: 1/0/18,00
+18:29:31: [KnxDB]: 8/2/2,00 FF C0 04 00
+18:31:41: [KnxDB]: 8/2/2,00 FF C0 04 00
+18:33:01: [KnxDB]: 8/2/0,00 0D 6F
+18:33:51: [KnxDB]: 8/2/2,00 FF C0 04 00
+18:36:01: [KnxDB]: 8/2/2,00 FF C0 04 00
+18:38:11: [KnxDB]: 8/2/2,00 FF C0 04 00
+18:40:21: [KnxDB]: 8/2/2,00 FF C0 04 00
+18:42:31: [KnxDB]: 8/2/2,00 FF C0 04 00
+18:44:41: [KnxDB]: 8/2/2,00 FF C0 04 00
+18:46:51: [KnxDB]: 8/2/2,00 FF C0 04 00
+18:48:00: [KnxDB]: 8/2/0,00 0D 6B
+18:48:05: [KnxDB]: 0/0/11,00
+18:48:05: [KnxDB]: 1/0/11,00
+18:48:05: [KnxDB]: 8/2/2,00 FF C0 00 00
+18:49:01: [KnxDB]: 8/2/2,00 FF C0 00 00
+18:51:11: [KnxDB]: 8/2/2,00 FF C0 00 00
+18:53:21: [KnxDB]: 8/2/2,00 FF C0 00 00
+18:55:31: [KnxDB]: 8/2/2,00 FF C0 00 00
+18:57:41: [KnxDB]: 8/2/2,00 FF C0 00 00
+18:59:51: [KnxDB]: 8/2/2,00 FF C0 00 00
